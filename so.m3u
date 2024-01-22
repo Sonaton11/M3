@@ -1,4 +1,4 @@
-#EXTM3U 
-#EXTM3U:1 
-https://edge4.bioscopelive.com/hls/anonymous/QiA5oX94Se9DTL_anNpCcw/1704528783/colors_bangla_low/index.m3u8
-edge4.bioscopelive.com/hls/anonymous/QiA5oX94Se9DTL_anNpCcw/1704528783/colors_bangla_low/index.m3u8
+EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="BTV National" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png",BTV National
+https://tvs1.aynaott.com/tsportsfhd/tracks-v1a1/mono.m3u8?hdnts=st%3D1705923289%7Eexp%3D1705966489%7Eacl%3D%2F%2A%7Edata%3D2401%3Ac080%3A2400%3A1ec0%3A5400%3A4ff%3Afe9d%3A1a86-WEB%7Ehmac%3D59953b92dd8e57de7885f12c30d6d4833329533e70af485e5fc67622bfe72e1c
+#EXTINF:-1 
