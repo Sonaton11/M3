@@ -64,3 +64,6 @@ http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 tvg-logo="png" group-title="SPORTS", Gtv
 https://tvs1.aynaott.com/gtvhdforgame/tracks-v1a1/mono.m3u8?hdnts=st%3D1706517904%7Eexp%3D1706561104%7Eacl%3D%2F%2A%7Edata%3D2604%3Abc80%3A8001%3A1244%3Aae1f%3A6bff%3Afef4%3A72a8-WEB%7Ehmac%3Db6aee89ba129a41174b5ed2f053d3cd60ea6faa8f0676031f2923438b136b2b6
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/kqPYFL1/IMG-20240129-071541.png",Discovery Bangla
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_20.m3u8
