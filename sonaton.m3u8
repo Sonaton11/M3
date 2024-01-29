@@ -64,7 +64,7 @@ https://cdn.retosprime.com/ayna.php?id=27&e=.m3u8
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 tvg-logo="png" group-title="SPORTS", Gtv
-https://tvs1.aynaott.com/tsportsfhd/index.m3u8?hdnts=st=1706531658~exp=1706574858~acl=/*~data=2a02:4780:bad:30:fced:1ff:fe30:38-WEB~hmac=f82b77241478148e8cc122c6a644417e9c5fd48e9738c75ffb92717182302a28
+http://172.16.29.242:8080/show/5008/index.m3u8
 
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/kqPYFL1/IMG-20240129-071541.png",Discovery Bangla
@@ -76,3 +76,16 @@ EXTINF:-1 ,STARJALSHA
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155770&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 ,Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zNTwtbc/IMG-20240126-092809.png"group-title="India Bangla",Enter 10 Bangla
+http://172.16.29.242:8080/show/5051/index.m3u8
+EXTINF:-1 sony ath
+http://172.16.29.242:8080/show/5049/index.m3u8
+
+EXTINF:-1 National Geographic HD
+http://172.16.29.242:8080/show/5036/index.m3u8
+EXTINF:-1 Discovery bangla
+http://172.16.29.242:8080/show/5026/index.m3u8
+EXTINF:-1 Nick
+http://172.16.29.242:8080/show/5024/index.m3u8
+EXTINF:-1 zee bangla cinema 
+http://172.16.29.242:8080/show/5050/index.m3u8
