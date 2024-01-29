@@ -9,3 +9,15 @@ http://172.16.29.242:8080/show/5048/index.m3u8
 http://172.16.29.242:8080/show/5047/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",STAR JALSHA MOVIES
 http://172.16.29.242:8080/show/5054/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="STAR JALSHA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",STAR JALSHA HD
+http://103.132.181.118:82/play/a001
+#EXTINF:-1  tvg-logo="https://i.ibb.co/KbB098T/IMG-20240126-112549.png"group-title="India Bangla",Sun Bangla
+http://103.132.181.118:82/play/a00s
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmKbpg1/IMG-20240126-103114.png" group-title="India Bangla",Sony AATH
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zNTwtbc/IMG-20240126-092809.png"group-title="India Bangla",Enter 10 Bangla
+http://103.132.181.118:82/play/a00n
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.ibb.co/TPKM7Mg/IMG-20240126-113602.png" ,Colors Bangla HD
+http://103.132.181.118:82/play/a008
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.ibb.co/sQTBtDd/IMG-20240129-064750.png",Akash 8
+https://cdn.retosprime.com/ayna.php?id=135&e=.m3u8
