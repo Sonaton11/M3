@@ -8,8 +8,8 @@ http://172.16.29.242:8080/show/5047/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",ZEE BANGLA HD
 http://172.16.29.242:8080/show/5048/index.m3u8
 
-#EXTINF:-1 ,Colors Bangla HD
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:-1 ,Colors Bangla chinema
+http://172.16.29.242:8080/show/5033/index.m3u8
 
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",STAR JALSHA MOVIES
