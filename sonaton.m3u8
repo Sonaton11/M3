@@ -87,8 +87,10 @@ http://172.16.29.242:8080/show/5036/index.m3u8
 http://172.16.29.242:8080/show/5026/index.m3u8
 #EXTINF:-1 ,Nick
 http://172.16.29.242:8080/show/5024/index.m3u8
-#EXTINF:-1 ,zee bangla cinema 
+#EXTINF:-1 ,zee bangla cinema #
 http://172.16.29.242:8080/show/5050/index.m3u8
+#EXTINF:-1 ,Enter 10 bangla
+http://172.16.29.242:8080/show/4036/index.m3u8
 
 
 
