@@ -97,12 +97,13 @@ http://172.16.29.242:8080/show/4120/index.m3u8
 
 #EXTINF:-1 ,Travelxp HD
 http://172.16.29.242:8080/show/5046/index.m3u8
-EXTINF:-1 ,Ten cricket 
+#EXTINF:-1 ,Ten cricket 
 http://172.16.29.242:8080/show/5069/index.m3u8
 
-EXTINF:-1 ,Sonic
+#EXTINF:-1 ,Sonic
 http://172.16.29.242:8080/show/5041/index.m3u8
-
+#EXTINF:-1 group-title="Kids"tvg-logo="https://i.ibb.co/cbJn4km/IMG-20240129-070233.jpg",KHUSHBOO BANGLA
+http://idvd.multitvsolution.com/idvo/khushboo_540p.m3u8
 
 
 
