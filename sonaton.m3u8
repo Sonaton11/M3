@@ -59,7 +59,7 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png" group-title="SPORTS", T Sports
-http://103.109.56.116/live/skyfeed1005/index.m3u8
+https://bd-sajib924.000webhostapp.com/api.php?id=1101
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j8FKPWj/IMG-20240126-083701.png" group-title="SPORTS", GTV
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
