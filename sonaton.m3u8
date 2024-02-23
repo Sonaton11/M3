@@ -55,7 +55,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-360p.m3u8u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/rQ7qvdM/IMG-20240126-100240.png",National Geographic HD
 http://103.132.181.118:82/play/a006
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.pngfind.com/pngs/m/495-4959368_discovery-bangla-logo-graphic-design-hd-png-download.png",Discovery Bangla
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 
@@ -73,7 +73,7 @@ http://172.16.29.242:8080/show/5008/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="SPORTS", GTV
 https://bd-sajib924.000webhostapp.com/api.php?id=1102
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/kqPYFL1/IMG-20240129-071541.png",Discovery Bangla
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Bangla
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_20.m3u8
 
 #EXTINF:-1 ,Star Jalsha
