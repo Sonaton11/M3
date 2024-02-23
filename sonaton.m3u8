@@ -64,10 +64,10 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/T_Sports#/media/File%3AT_Sports_logo.png" group-title="SPORTS", T Sports
 https://bd-sajib924.000webhostapp.com/api.php?id=1101
 
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/GTV_(Bangladeshi_TV_channel)#/media/File%3AGTVBangladeshLogo.png" group-title="SPORTS", GTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="SPORTS", GTV
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1BU87BIUSYvL438gOwXoxaGBRghxwl6OZ/view?usp=drivesdk" group-title="SPORTS", Gtv
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipWoZUkHEwqUYXVsO8EE7S7Ao628IfB1sKa2mOsSCvcTAyjUKsQe24a0fP6zDhRFYGr9RLV6kXqVXVW0XjMd1Qsbj1moi58d7XTwCsKGjuE_9glfanBDDedyg4MfCr25tu9wTEftw5eyrwf_lZekWCurR8QYn3IDJcJ7__YMX9Rh6DpMuliahzCZgWGckv/w378-h213-c-rw/GTVBangladeshLogo.png" group-title="SPORTS", Gtv
 http://172.16.29.242:8080/show/5008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="SPORTS", GTV
