@@ -11,7 +11,7 @@ http://pgplex.net:8080/ColorsBangla/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",ZEE BANGLA HD
 http://172.16.29.242:8080/show/5048/index.m3u8
 
-#EXTINF:-1 ,group-title="BANGLA" tvg-logo="https://en.m.wikipedia.org/wiki/File:Colors_Bangla_Cinema.png",Colors Bangla chinema
+#EXTINF:-1 ,group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/800px-Colors_Bangla_Cinema.png",Colors Bangla chinema
 http://172.16.29.242:8080/show/5033/index.m3u8
 
 
