@@ -49,10 +49,10 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.ibb.co/cbJn4km/IMG-20240129-070233.jpg",KHUSHBOO BANGLA
 http://idvd.multitvsolution.com/idvo/khushboo_540p.m3u8
 
-#EXTINF:-1 group-title="Kids"tvg-logo="https://i.ibb.co/nPtWrq0/IMG-20240129-070421.png",Cartoon Network
+#EXTINF:-1 group-title="Kids"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-360p.m3u8u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/rQ7qvdM/IMG-20240126-100240.png",National Geographic HD
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic HD
 http://103.132.181.118:82/play/a006
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Bangla
