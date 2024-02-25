@@ -6,7 +6,7 @@ http://172.16.29.242:8080/show/5053/index.m3u8
 http://172.16.29.242:8080/show/5047/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png",Colors Bangla jio
-https://benihime.tech/jio/2/playlist.php?c=WDE5b1pHNWxZVjlmUFhOMFBURTNNRGc0TmpFeU5UbCtaWGh3UFRFM01EZzROalE0TlRsK1lXTnNQUzlpY0dzdGRIWXZRMjlzYjNKelgwSmxibWRoYkdsZlNFUmZUVTlDTDBaaGJHeGlZV05yTHlwK2FHMWhZejFpWldOaE1EQmlNamM0TUdJeFl6RTJZems0TlRobE9EUmpZekE0T1RabE9EWmxNR1UxWlRJNVltRmlaRFV4WlRBNE5qZzNaR013TWpaaE5EZ3pOV00w&l=https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Bengali_HD_MOB/Fallback/Colors_Bengali_HD_MOB-audio_112034_eng=112000-video=1244800.m3u8
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Bengali_HD_MOB/Fallback/Colors_Bengali_HD_MOB-audio_112034_eng=112000-video=1244800.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",ZEE BANGLA HD
 http://172.16.29.242:8080/show/5048/index.m3u8
