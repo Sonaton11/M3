@@ -5,6 +5,9 @@ http://172.16.29.242:8080/show/5053/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png",Colors Bangla HD
 http://172.16.29.242:8080/show/5047/index.m3u8
 
+EXTINF:-1 tvg-id="105" tvg-name="Colors Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7c428efd- 1f33-4982-9717-c74e123dcfb3_180x180_ColorsBangla.jpg" tvg-chno="105" group-title="Ayna OTT by @the_nayeemparvez", Colors Bangla
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=105&e=.m3u8|User-Agent=test10
+
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png",Colors Bangla jio
 https://api.bongohub.pw/api/bio.php?ac=colors-bangla
 
