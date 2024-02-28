@@ -59,19 +59,21 @@ http://103.132.181.118:82/play/a006
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS", T Sports pg
-https://live.himel-himu@1rdk.short.gy/T-Sports/hls/Himel-Op.m3u8
-
+http://tvcdn.hoichoi24.com:8083/1101/tracks-v1a1/mono.m3u8?token=fc8af56ab1b206a3c909f6c4f4535cc9c1c15b3a-f213741fd77e25c520e7f7834af3a4dd-1709133517-1709129917
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS", T Sports
 http://38.96.178.201/live/TSports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="SPORTS", GTV
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 
+#EXTINF:-1 ,Fancode
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709146670/ei/zS3fZfHbPOeF4-EPt8S7-A4/ip/103.145.135.215/id/HZKHgb3qBKI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9f0yVLrPwRC14W0NTrpdCJ9yT3NntNzPDjJ7YQT3niB1p1Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKrMmCjvvCYuR7yyEvpnFKM9YA7AjwXB10RI-Pr0KnjFAiA2i_5wOTdvVjOtZcxyNp5CcE7MLx8Gk9NYk5WwgqzqLg%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipWoZUkHEwqUYXVsO8EE7S7Ao628IfB1sKa2mOsSCvcTAyjUKsQe24a0fP6zDhRFYGr9RLV6kXqVXVW0XjMd1Qsbj1moi58d7XTwCsKGjuE_9glfanBDDedyg4MfCr25tu9wTEftw5eyrwf_lZekWCurR8QYn3IDJcJ7__YMX9Rh6DpMuliahzCZgWGckv/w378-h213-c-rw/GTVBangladeshLogo.png" group-title="SPORTS", BDIX GTV
 http://172.16.29.242:8080/show/5008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="SPORTS", GTV
-http://38.96.178.201/live/GaziTV/index.m3u8
+http://tvcdn.hoichoi24.com:8083/1102/tracks-v1a1/mono.m3u8?token=0d44b76bc4ce1d55d1d9f5649b133cd4750f71cf-af567394d27552ea84cc594a2fe1914c-1709133355-1709129755
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Bangla
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_20.m3u8
