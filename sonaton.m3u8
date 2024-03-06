@@ -60,19 +60,19 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS", T Sports pg
 https://test.bongodrive.pw/bdix.m3u8?ac=1101
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS", T Sports
-https://prod-ec-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/_zgCe_mCMHL3rigtYBSrrTeKREN1mEzWyFdVMyxPGmDmfUecz9vJ2Q9tmJRhoc2OPvDf0q97Lsk5j9rqANG-hg/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live
+http://tvcdn.hoichoi24.com:8083/1101/tracks-v1a1/mono.m3u8?token=b0c72286abf3516772704f3305385fed756e9092-fb22e54d5a9a071229fa5fd3f44adc88-1709716726-1709713126
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="SPORTS", GTV
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 
 #EXTINF:-1 ,Fancode
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709146670/ei/zS3fZfHbPOeF4-EPt8S7-A4/ip/103.145.135.215/id/HZKHgb3qBKI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9f0yVLrPwRC14W0NTrpdCJ9yT3NntNzPDjJ7YQT3niB1p1Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKrMmCjvvCYuR7yyEvpnFKM9YA7AjwXB10RI-Pr0KnjFAiA2i_5wOTdvVjOtZcxyNp5CcE7MLx8Gk9NYk5WwgqzqLg%3D%3D/file/index.m3u8
+https://video-weaver.arn03.hls.live-video.net/v1/playlist/CroFPwDM4AA36Jd2ITQFZKPxdg5AHCUCq3oSW47B520najtOa0FU5-GWzH-5nxb74SSv-d0Pu9_Iokjn5xMsEI0_kxyPMRtXbNvqfHI_U1YLSDGw7w50fKv7FQL_UwUELGRcFMRWNECaWKpBGDUemfXmVbfQmuHTO00SHuUizxlcN2uvB8SideT9lanlXTXaGoIFQ87_X0a9n1WSM6MWTPxncdWY46Mu667mR_UCPaWmNUgvqUhsDwuye2rE3fyKYwDaOyMQekE9ywL-X_h3keMHmRlq8Upcj8dMuwj17q4CPiVortQ3csY2C1ydE-O27T4xTaZ3luvBPf7rLyCA09GAPzonF2vyA_bJyabtBmyYasavHKlC7kfTSMvE7sNblazCx_0MJ5bKBg6ykRHpiaGuHU6ycFUB0S58oBlI-0HRTGUPcb1MdY35052gL56qZHHfbAu0GMYj6hXhA4sqOXi7_sjckT0Z96x2LnYGlZeCRPU-wZKWU4B_SH1pXqXSOQTztJR3IjJfP0HuU3RxIhDKXRrXVpkIaep3OnlnLRp_EV7Pk7oKZXmvWb23ciHj9ITpipQsh4SlXGvCl3UrC79IqGQEhYdRxhSlI7zdwUR7GWfRmOoCwvdiz9laPmnws6tMhPXikEiQj0Y9_9DGja4ax3vR0nPnp5SBJSI-q9vsfs-mfFyXVaAEvEKB96iobokQak0YaCIFuS-3xiHjpx8uksMkr62gaf7E0-2y2RMEkmAajK0UB7HwgKSHwUTam-rtFpMfrCwyfiQfxrNN4u8VztHSrTu--QIEd6HhDAt-UKVtmIoLrQIaxKiX0Sz0yytWAAClzwzZVWBQk9K2Llcw13tN9SrAburW7wq711qLwYAqrhUIGPcyj39H7xDrYrftqAO7M4xIsLuEC4WjsiRI6Luur7HOw7fmFHEaDFeYYU6D0Clu0DSq-CABKglldS13ZXN0LTIw8Qg.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipWoZUkHEwqUYXVsO8EE7S7Ao628IfB1sKa2mOsSCvcTAyjUKsQe24a0fP6zDhRFYGr9RLV6kXqVXVW0XjMd1Qsbj1moi58d7XTwCsKGjuE_9glfanBDDedyg4MfCr25tu9wTEftw5eyrwf_lZekWCurR8QYn3IDJcJ7__YMX9Rh6DpMuliahzCZgWGckv/w378-h213-c-rw/GTVBangladeshLogo.png" group-title="SPORTS", BDIX GTV
 http://172.16.29.242:8080/show/5008/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="SPORTS", GTV
-http://tvcdn.hoichoi24.com:8083/1102/tracks-v1a1/mono.m3u8?token=0d44b76bc4ce1d55d1d9f5649b133cd4750f71cf-af567394d27552ea84cc594a2fe1914c-1709133355-1709129755
+http://tvcdn.hoichoi24.com:8083/1102/tracks-v1a1/mono.m3u8?token=a83640f93d3c92282a0316e4f524e6840395bcfe-707b497c441eea836c73bd933a08001b-1709716455-1709712855
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Bangla
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_20.m3u8
