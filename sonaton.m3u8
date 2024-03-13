@@ -60,7 +60,7 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS", T Sports pg
 https://test.bongodrive.pw/bdix.m3u8?ac=1101
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS", T Sports
-http://tvcdn.hoichoi24.com:8083/1101/tracks-v1a1/mono.m3u8?token=b0c72286abf3516772704f3305385fed756e9092-fb22e54d5a9a071229fa5fd3f44adc88-1709716726-1709713126
+http://176.119.29.52/live/00:1A:79:17:BD:79/8B83484C00326/48010.m3u8?hlsid=407669648&redir=1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="SPORTS", GTV
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
