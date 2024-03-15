@@ -60,13 +60,13 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS", T Sports pg
 https://test.bongodrive.pw/bdix.m3u8?ac=1101
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS", T Sports
-http://176.119.29.52/live/00:1A:79:17:BD:79/8B83484C00326/48010.m3u8?hlsid=407669648&redir=1
+http://172.16.29.242:8080/show/5067/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="SPORTS", GTV
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 
-#EXTINF:-1 ,Fancode
-https://video-weaver.arn03.hls.live-video.net/v1/playlist/CroFYlq2cfAcBSphlmq3ad1JL3lwpj3M9uPcg75annlfULqRM6Wli0HaZ_rBqt0Gjzc1ZNHQlERjEwThvAO3J0zHYtFNrXCcD3kH32FPpBw1a-tjwkzzYacH0XgT04TZxxDrpIyYSxq1w6V541lvcjmxUqmUxKOah1hd-1zFuwYLj78HL-8r7uUbNP4rzM1p9_6pbnqaXgxC95YNw82whN2bc19IzGhW2bVl1jc7cCetw35gnzK4eJgtC2AzJHiFqBh3kF3mHQ8f-GHQowhPA9mRz3VAltKORnfSw_BfAx3djXGFqxapMIDwd1dc-nZb5PErNUQY8kj9SO7nYQw68S7VH41gQoiSNHEwdDRxWWt_-do9fk3iDJAFhUdlocC2l2oC4PwHI-XNgozIEwMq6oojVzktX3qk0MVQEdDvDjPi_bM86Htd2GWeY0M6vM0Dn-S-GSrbwYEC7BRu4LVZQuXJdoI7AiNty0QJsStAsrpSQH6OkAMRnb7FqMpW67OWeLrif2nqiLF4Ll_MZlLnawEz7Pg9EvznTUh8LEmBBvKy4ILJ2Ui4O3SGCsDD_g6utWGDn6B0USpkNv6Ekw4JZtk3uffNUQxMOxEvevzo5N8hVvINSizp8AfBKuX3bxR4Umy50KANJJkzuJUWEHsOVhfqDxQynPXr_j_LNhe5lStntHs9kPBrpcY3wYU6itTAlwG7HU1r5fc4mmJWFUiBuDB1brR6NCAloQJ27DKgByi3FhOpzy-FzNQmAVwEtK4EwlkVIsxsmcsO2UvpiQp4dve6DSIORSWI9FnyGXvjWwclualTcwi92XajqXBG-x1Soy0allN0_TW3S4D_RTsdmR1hLDfdZbkOAzwLBVKe_stTv3sTgI6SD4tqM5aZOV1m9eqj2N_cNxqZVXpqsvHnRM4f-8tN8PJfIAWI0DIaDMRkYzm_Cbwiq_BPtSABKglldS13ZXN0LTIw8Qg.m3u8
+#EXTINF:-1 ,WATAN HD
+http://172.16.29.242:8080/show/5002/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipWoZUkHEwqUYXVsO8EE7S7Ao628IfB1sKa2mOsSCvcTAyjUKsQe24a0fP6zDhRFYGr9RLV6kXqVXVW0XjMd1Qsbj1moi58d7XTwCsKGjuE_9glfanBDDedyg4MfCr25tu9wTEftw5eyrwf_lZekWCurR8QYn3IDJcJ7__YMX9Rh6DpMuliahzCZgWGckv/w378-h213-c-rw/GTVBangladeshLogo.png" group-title="SPORTS", BDIX GTV
 http://172.16.29.242:8080/show/5008/index.m3u8
