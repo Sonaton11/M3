@@ -131,6 +131,7 @@ https://fr.tvanondo.online/sananda/video.m3u8
 #EXTINF:-1 ,Deepto tv
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png",Colors Bangla HD
 http://tvcdn.hoichoi24.com:8083/1411/tracks-v1a1/mono.m3u8?token=4396e97e7dfc2dae498f9c3c6a7d5393f13089eb-cb1392583c1cf7363414fcf3c8c762de-1710604538-1710600938
 
 
