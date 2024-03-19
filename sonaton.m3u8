@@ -134,7 +134,8 @@ https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png",Colors Bangla HD
 http://tvcdn.hoichoi24.com:8083/1411/tracks-v1a1/mono.m3u8?token=83d87ae9be29e0bed3f029d13f81d58c6ee6ad74-8df2aa915158939c80c71514a3a65249-1710691035-1710687435
 
-
+#EXTINF:-1 ,Rtv
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w81829040.m3u8
 
 
 
