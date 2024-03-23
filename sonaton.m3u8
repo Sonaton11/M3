@@ -139,6 +139,8 @@ http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1 ,Rtv
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w81829040.m3u8
 
+#EXTINF:-1 ,star sports
+http://172.16.29.242:8080/hls/sports4/index.m3u8
 
 
 
@@ -147,65 +149,6 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w818
 
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="DBC" tvg-logo="https://i.ibb.co/S3GmF3b/IMG-20240126-084426.png" group-title="SKY Feed BY Eamin Talukdar", DBC NEWS
-http://103.109.56.116/live/funtime108/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/M9LfKy2/IMG-20240126-084529.jpg" group-title="SKY Feed BY Eamin Talukdar", NEWS 24
-http://103.109.56.116/live/funtime109/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/8sVYKmM/IMG-20240126-084123.jpg" group-title="SKY Feed BY Eamin Talukdar", JAMUNA TV
-http://103.109.56.116/live/skyfeed1021/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/kqPYFL1/IMG-20240129-071541.png" group-title="SKY Feed BY Eamin Talukdar", DISCOVERY HD
-http://103.109.56.116/live/funtime106/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/W5cP3KT/IMG-20240126-084224.png" group-title="SKY Feed BY Eamin Talukdar", EKATTOR
-http://103.109.56.116/live/skyfeed1015/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Vj3Mh4B/IMG-20240320-113250.png" group-title="SKY Feed BY Eamin Talukdar", SOMOY TV
-http://103.109.56.116/live/skyfeed1014/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/M8psvPP/IMG-20240126-084956.jpg" group-title="SKY Feed BY Eamin Talukdar", MAASRANGA TV
-http://103.109.56.116/live/skyfeed1013/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/NjgzxKW/IMG-20240126-084336.png" group-title="SKY Feed BY Eamin Talukdar", INDEPENDENT TV
-http://103.109.56.116/live/skyfeed1012/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/HTf0zzr/IMG-20240126-092334.jpg" group-title="SKY Feed BY Eamin Talukdar", DEEPTO TV
-http://103.109.56.116/live/skyfeed1011/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KbwLvYr/IMG-20240126-092500.png" group-title="SKY Feed BY Eamin Talukdar", BANGLAVISION
-http://103.109.56.116/live/skyfeed1009/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="https://i.ibb.co/1XsGsgq/IMG-20240129-070805.jpg" group-title="SKY Feed BY Eamin Talukdar", NICK
-http://103.109.56.116/live/funtime110/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POGO" tvg-logo="https://i.ibb.co/27sVGWG/IMG-20240129-070950.png" group-title="SKY Feed BY Eamin Talukdar", POGO
-http://103.109.56.116/live/skyfeed1019/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/fSZ39zj/IMG-20240129-071418.png" group-title="SKY Feed BY Eamin Talukdar", ANIMAL PLANET
-http://103.109.56.116/live/funtime1025/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA" tvg-logo="https://i.ibb.co/NsNf4XJ/IMG-20240126-112842.png" group-title="SKY Feed BY Eamin Talukdar", ZEE BANGLA HD
-http://103.109.56.116/live/funtime111/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY AATH" tvg-logo="https://i.ibb.co/zmKbpg1/IMG-20240126-103114.png" group-title="SKY Feed BY Eamin Talukdar", SONY AATH
-http://103.109.56.116/live/skyfeed1016/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png" group-title="SKY Feed BY Eamin Talukdar", STAR JALSHA HD
-http://103.109.56.116/live/funtime112/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="https://i.ibb.co/TPKM7Mg/IMG-20240126-113602.png" group-title="SKY Feed BY Eamin Talukdar", COLORS BANGLA HD
-http://103.109.56.116/live/skyfeed1017/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="SKY Feed BY Eamin Talukdar", GAZI TV
-http://103.109.56.116/live/skyfeed1006/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png" group-title="SKY Feed BY Eamin Talukdar", T SPORTS HD
-http://103.109.56.116/live/skyfeed1005/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/CwnmncC/IMG-20240129-072239.jpgg" group-title="SKY Feed BY Eamin Talukdar", SONY SPORTS HD
-http://103.109.56.116/live/skyfeed1007/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Qr7q1r1/IMG-20240129-072338.png" group-title="SKY Feed BY Eamin Talukdar", SONY SPORTS 2 HD
-http://103.109.56.116/live/skyfeed1008/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SKY Feed BY Eamin Talukdar", SONY SPORTS 5 HD
-http://103.109.56.116/live/skyfeed1001/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Hd2YRBj/IMG-20240129-071921.png" group-title="SKY Feed BY Eamin Talukdar", STAR SPORTS 1 HD
-http://103.109.56.116/live/skyfeed1002/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/5KKNJNz/IMG-20240129-071957.jpg"" group-title="SKY Feed BY Eamin Talukdar", STAR SPORTS 2 HD
-http://103.109.56.116/live/skyfeed1003/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/TrPDk4V/IMG-20240129-072058.png"" group-title="SKY Feed BY Eamin Talukdar", STAR SPORTS SELECT 1 HD
-http://103.109.56.116/live/skyfeed1004/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="https://i.ibb.co/LC67WKg/IMG-20240126-101509.jpg" group-title="SKY Feed BY Eamin Talukdar", PTV SPORTS
-http://103.109.56.116/live/funtime107/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Prjwwcb/pngwing-com.png" group-title="SKY Feed BY Eamin Talukdar", SUNNAH
-http://103.109.56.116/live/skyfeed1022/index.m3u8
-#EXTINF:-1 group-title="SKY Feed BY Eamin Talukdar"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/180px-Aljazeera.svg.png", AL JAZEERA
-
-http://103.109.56.116/live/skyfeed1024/index.m3u8
 
 
 
