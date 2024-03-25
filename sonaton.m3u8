@@ -142,9 +142,6 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w818
 #EXTINF:-1 ,star sports
 http://172.16.29.242:8080/hls/sports4/index.m3u8
 
-#EXTINF:-1 ,IPL
-https://Mahabubur@prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/seApb_kICJPIHlJL1Jyh_r-zASPaDFCd9Y72iNwbPHLG-m0TCdwjFRyv821u-pPxX4uCZnsplbVSErUVqrVwTA/transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
-
 
 
 
