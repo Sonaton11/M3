@@ -14,9 +14,28 @@ http://172.16.29.242:8080/show/5048/index.m3u8
 #EXTINF:-1 ,group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/800px-Colors_Bangla_Cinema.png",Colors Bangla chinema
 http://172.16.29.242:8080/show/5033/index.m3u8
 
-
+ ,
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.pngitem.com/middle/hmhTwTm_star-jalsha-movies-png-transparent-png",STAR JALSHA MOVIES
 http://172.16.29.242:8080/show/5054/index.m3u8
+
+
+#EXTINF:-1 ,Channel i
+http://172.16.29.242:8080/show/4016/index.m3u8
+
+#EXTINF:-1 ,Ekattor tv
+http://172.16.29.242:8080/show/4017/index.m3u8
+
+#EXTINF:-1 ,Independent
+http://172.16.29.242:8080/show/4008/index.m3u8
+
+#EXTINF:-1 ,Jamuna tv
+http://172.16.29.242:8080/show/4005/index.m3u8
+
+#EXTINF:-1 ,&flixHD
+http://172.16.29.242:8080/show/5014/index.m3u8
+
+#EXTINF:-1 ,&PriveHD
+http://172.16.29.242:8080/show/5014/index.m3u8
 
 
 
