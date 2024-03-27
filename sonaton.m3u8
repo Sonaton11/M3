@@ -44,6 +44,130 @@ http://172.16.29.242:8080/show/5061/index.m3u8
 http://172.16.29.242:8080/show/5057/index.m3u8
 
 
+#EXTINF:-1 ,MN+
+http://172.16.29.242:8080/show/5015/index.m3u8
+
+#EXTINF:-1 ,MNX
+http://172.16.29.242:8080/show/5009/index.m3u8
+
+#EXTINF:-1 ,movies now hd
+http://172.16.29.242:8080/show/5018/index.m3u8
+
+#EXTINF:-1 ,romedy now
+http://172.16.29.242:8080/show/5059/index.m3u8
+
+#EXTINF:-1 ,sony pix
+http://172.16.29.242:8080/show/5022/index.m3u8
+
+
+#EXTINF:-1 ,star movies hd
+http://172.16.29.242:8080/show/5021/index.m3u8
+
+
+#EXTINF:-1 ,star movies select hd
+http://172.16.29.242:8080/show/5011/index.m3u8
+
+#EXTINF:-1 ,TLC
+http://172.16.29.242:8080/show/5062/index.m3u8
+
+#EXTINF:-1 ,zee cafe hd
+http://172.16.29.242:8080/show/5016/index.m3u8
+
+#EXTINF:-1 ,&picture hd
+http://172.16.29.242:8080/show/5039/index.m3u8
+
+#EXTINF:-1 ,colors hd
+http://172.16.29.242:8080/show/5035/index.m3u8
+
+#EXTINF:-1 ,goldmines 
+http://172.16.29.242:8080/show/4117/index.m3u8
+
+#EXTINF:-1 ,sony entertainment television 
+http://172.16.29.242:8080/show/5034/index.m3u8
+
+#EXTINF:-1 ,sony max hd
+http://172.16.29.242:8080/show/5029/index.m3u8
+
+#EXTINF:-1 ,star gold hd
+http://172.16.29.242:8080/show/5028/index.m3u8
+
+
+#EXTINF:-1 ,star gold select hd
+http://172.16.29.242:8080/show/5058/index.m3u8
+
+#EXTINF:-1 ,star gold hd
+http://172.16.29.242:8080/show/5063/index.m3u8
+
+#EXTINF:-1 ,star plus hd
+http://172.16.29.242:8080/show/5030/index.m3u8
+
+#EXTINF:-1 ,zee cinema hd
+http://172.16.29.242:8080/show/5032/index.m3u8
+
+#EXTINF:-1 ,zee tv hd
+http://172.16.29.242:8080/show/5031/index.m3u8
+
+
+#EXTINF:-1 ,Eurosports hd
+http://172.16.29.242:8080/show/5013/index.m3u8
+
+#EXTINF:-1 ,sony sports 1 hd
+http://172.16.29.242:8080/show/5056/index.m3u8
+
+#EXTINF:-1 ,sony sports 2 hd
+http://172.16.29.242:8080/show/5044/index.m3u8
+
+#EXTINF:-1 ,sony sports 3 hd
+http://172.16.29.242:8080/show/5045/index.m3u8
+
+#EXTINF:-1 ,sony sports 5 hd
+http://172.16.29.242:8080/show/5020/index.m3u8
+
+
+#EXTINF:-1 ,sports 18
+http://172.16.29.242:8080/show/5017/index.m3u8
+
+#EXTINF:-1 ,star sports 1 hd
+http://172.16.29.3:8080/hls/startsport-1.m3u8
+
+#EXTINF:-1 ,star sports 2 hd
+http://172.16.29.3:8080/hls/startsport-2.m3u8
+
+#EXTINF:-1 ,star sports 3 hd
+http://172.16.29.3:8080/hls/startsport-3.m3u8
+
+#EXTINF:-1 ,star sports select 1 hd
+http://172.16.29.242:8080/show/5055/index.m3u8
+
+
+#EXTINF:-1 ,star sports select 2 hd
+http://172.16.29.242:8080/show/5055/index.m3u8
+
+#EXTINF:-1 ,masti
+http://172.16.29.242:8080/show/4124/index.m3u8
+
+#EXTINF:-1 ,gan bangla tv
+http://172.16.29.242:8080/show/4018/index.m3u8
+
+#EXTINF:-1 ,animal planent hd
+http://172.16.29.242:8080/show/5025/index.m3u8
+
+#EXTINF:-1 ,wild hd
+http://172.16.29.242:8080/show/5027/index.m3u8
+
+
+#EXTINF:-1 ,sony bbc earth hd
+http://172.16.29.242:8080/show/5038/index.m3u8
+
+#EXTINF:-1 ,cn hd +
+http://172.16.29.242:8080/show/5012/index.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="STAR JALSHA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",STAR JALSHA HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
