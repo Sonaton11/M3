@@ -18,6 +18,13 @@ http://172.16.29.242:8080/show/5033/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.pngitem.com/middle/hmhTwTm_star-jalsha-movies-png-transparent-png",STAR JALSHA MOVIES
 http://172.16.29.242:8080/show/5054/index.m3u8
 
+#EXTINF:-1 ,star jalsha
+https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,zee bangla
+https://tv5.hoichoi24.com/1405/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,T sports
+https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Channel i
 http://172.16.29.242:8080/show/4016/index.m3u8
