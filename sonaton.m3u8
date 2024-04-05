@@ -6,7 +6,7 @@ http://172.16.29.242:8080/show/5053/index.m3u8
 http://172.16.29.242:8080/show/5047/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png",Colors Bangla jio
-http://103.151.60.214:7444/1612/video.m3u8
+https://tv5.hoichoi24.com/1411/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",ZEE BANGLA HD
 http://172.16.29.242:8080/show/5048/index.m3u8
