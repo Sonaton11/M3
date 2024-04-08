@@ -18,6 +18,19 @@ http://172.16.29.242:8080/show/5033/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.pngitem.com/middle/hmhTwTm_star-jalsha-movies-png-transparent-png",STAR JALSHA MOVIES
 http://172.16.29.242:8080/show/5054/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS", T Sports pg
+https://live-cdn.tsports.com/live-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS", T Sports
+http://172.16.29.242:8080/show/5067/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="SPORTS", GTV
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,T sports 1
+https://live-cdn.tsports.com/live-01/index.m3u8
+#EXTINF:-1 ,colors bangla
+http://sansat.net:88/02029761595924/9d089925dc60a821/100639
+
 #EXTINF:-1 ,star jalsha
 https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8
 
@@ -213,16 +226,7 @@ http://103.132.181.118:82/play/a006
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS", T Sports pg
-https://tv5.hoichoi24.com/1024/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS", T Sports
-http://172.16.29.242:8080/show/5067/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="SPORTS", GTV
-https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,WATAN HD
-http://172.16.29.242:8080/show/5002/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipWoZUkHEwqUYXVsO8EE7S7Ao628IfB1sKa2mOsSCvcTAyjUKsQe24a0fP6zDhRFYGr9RLV6kXqVXVW0XjMd1Qsbj1moi58d7XTwCsKGjuE_9glfanBDDedyg4MfCr25tu9wTEftw5eyrwf_lZekWCurR8QYn3IDJcJ7__YMX9Rh6DpMuliahzCZgWGckv/w378-h213-c-rw/GTVBangladeshLogo.png" group-title="SPORTS", BDIX GTV
 http://172.16.29.242:8080/show/5008/index.m3u8
