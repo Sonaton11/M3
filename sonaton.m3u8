@@ -6,10 +6,10 @@ http://172.16.29.242:8080/show/5053/index.m3u8
 http://172.16.29.242:8080/show/5047/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png",Colors Bangla jio
-https://tv5.hoichoi24.com/1411/tracks-v1a1/mono.m3u8
+http://tv1.instafarm.live/getm3u8?id=756&m3u8=https://jiotvbpkmob.cdn.jio.com/bpk-tv/Colors_Bengali_HD_MOB/Fallback/Colors_Bengali_HD_MOB-audio_97234_und=97200-video=2310000.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",ZEE BANGLA HD
-http://172.16.29.242:8080/show/5048/index.m3u8
+http://tv1.instafarm.live/getm3u8?id=625&m3u8=https://jiotvbpkmob.cdn.jio.com/bpk-tv/Zee_Bangla_MOB/Fallback/Zee_Bangla_MOB-audio_98834_eng=98800-video=1680400.m3u8
 
 #EXTINF:-1 ,group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Colors_Bangla_Cinema.png/800px-Colors_Bangla_Cinema.png",Colors Bangla chinema
 http://172.16.29.242:8080/show/5033/index.m3u8
