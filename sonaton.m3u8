@@ -1,4 +1,8 @@
 EXTM3U
+
+#EXTINF:-1 ,cricket live
+https://mahabubur@sports.lvyclv.com/live/m33292792/playlist.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="STAR JALSHA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",STAR JALSHA HD
 http://172.16.29.242:8080/show/5053/index.m3u8
 
