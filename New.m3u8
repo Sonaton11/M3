@@ -1,7 +1,10 @@
 EXTM3U
 
 #EXTINF:-1 ,cricket live
-https://mm4-97.tinyuri.org/live/m4-1080p.m3u8
+https://live.notebulk.xyz/-qp8teL5MaAYEyIYsMg3rg/1718197431/us_willow/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Zee Bangla
 https://tv5.hoichoi24.com/1405/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ,Enter 10 Bangla
+https://tv5.hoichoi24.com/1402/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,
