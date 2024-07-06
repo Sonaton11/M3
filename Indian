@@ -1,1 +1,6 @@
+EXTM3U
 
+#EXTINF:-1 ,Enter 10 bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 ,
