@@ -12,3 +12,12 @@ http://xtv.ooo:8080/4412823896/7155272299/245895
 
 #EXTINF:-1 ,star jalsha hd
 http://xtv.ooo:8080/4412823896/7155272299/245898
+
+#EXTINF:-1 ,star jalsha
+http://217.20.112.199/starjalshahd/index.m3u8
+
+#EXTINF:-1 ,colors bangla
+http://217.20.112.199/colorsbangla/index.m3u8
+
+#EXTINF:-1 ,sananda
+http://live.sanandatelevision.in:2020/sananda/index.m3u8
