@@ -24,5 +24,21 @@ http://live.sanandatelevision.in:2020/sananda/index.m3u8
 
 #EXTINF:-1 ,T sports hd
 http://172.16.29.34/1234/1234/461.m3u8
+#EXTINF:-1 ,Zee bangla hd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=4237600.m3u8
+
+#EXTINF:-1 ,zee bangla
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1-audio_208482_und=208000-video=4237600.m3u8
+#EXTINF:-1 ,zee bangla hd 
+http://217.20.112.199/zeebangla/index.m3u8
+
+#EXTINF:-1 ,ZE BANGLA CINEMA HD
+http://217.20.112.199/zeecinema/index.m3u8
+
+#EXTINF:-1 ,KHUSHBOO BANGLA
+https://cdn3.pishow.tv/live/283/master.m3u8
+
+#EXTINF:-1 ,
+
 #EXTINF:-1 ,jalsha Movies 
 http://172.16.29.34/1234/1234/387.m3u8
