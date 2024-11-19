@@ -3,15 +3,38 @@ EXTM3U
 #EXTINF:-1 ,Enter 10 bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-#EXTINF:-1 ,colors bangla
-http://51.159.212.144/4412823896/7155272299/245895?token=GhMNBEZcR1gRBVEMB1QCBAEEA1VQXAgHU1AFA1cMBVYAAFVdA1VcAAJEGBoXEhZRBVtrXgVGAgJWUw8NBhQUFhJUFzpcUEdYEVACC1ZRUxZIFEBeDAEaClNRBQYGCg9UUwRJR0VdAUAJCEFUCEpGURxCUUUPBVRvBgNBXVBdFFkPRAkJGRYKDGwCUVUFCAAWXhQFFU1GUUMSRA1aRlRaT0NTDBFHVREHEVxaTQgKSBYHWUFZFRZBElhEdnERFBQGGUUAC0ZdCgwRXBZMF0RIFg1Fa0UEF0xCBwdaUUEaDEFRE0lHWFUdPVAJWlYBBRBdC1hHFVtGCRJORFpbXVFCDBNuFQxRFl8MRgpYRQ==
+#EXTINF:-1 ,Enter 10 bangla
+http://172.16.29.2:8080/hls/Enter10Bangla.m3u8
 
+#EXTINF:-1 ,colors bangla
+http://172.16.29.2:8080/hls/colorsbanglabd.m3u8
 
 #EXTINF:-1 ,colors bangla
 http://xtv.ooo:8080/4412823896/7155272299/245895
 
 #EXTINF:-1 ,star jalsha hd
-https://iptvcable.netlify.app/Altogether-007/Kolkata/StarJalsha.m3u8
+http://172.16.29.2:8080/hls/sjolshahd.m3u8
+
+#EXTINF:-1 ,zee bangla
+http://172.16.29.2:8080/hls/zeebanglahd.m3u8
+
+#EXTINF:-1 ,jalsha movies
+http://172.16.29.2:8080/hls/jalshami.m3u8
+
+#EXTINF:-1 ,National geographic hd
+http://172.16.29.2:8080/hls/NatGeoHD.m3u8
+
+#EXTINF:-1 ,Discovery hd
+http://172.16.29.2:8080/hls/DiscoveryHD.m3u8
+
+#EXTINF:-1 ,nick hd
+http://172.16.29.2:8080/hls/nicktvhdplus.m3u8
+
+#EXTINF:-1 ,CN HD
+http://172.16.29.2:8080/hls/cartoonnetwork.m3u8
+
+#EXTINF:-1 ,T sports HD
+http://172.16.29.2:8080/hls/tsportsfhd.m3u8
 
 #EXTINF:-1 ,star jalsha
 http://217.20.112.199/starjalshahd/index.m3u8
