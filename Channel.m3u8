@@ -34,7 +34,7 @@ http://172.16.29.2:8080/hls/nicktvhdplus.m3u8
 http://172.16.29.2:8080/hls/cartoonnetwork.m3u8
 
 #EXTINF:-1 ,T sports HD
-http://172.16.29.2:8080/hls/tsportsfhd.m3u8
+http://172.16.29.226:8090/hls/tsportshd.m3u8
 
 #EXTINF:-1 ,star jalsha
 http://217.20.112.199/starjalshahd/index.m3u8
