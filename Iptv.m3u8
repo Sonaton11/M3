@@ -1,1 +1,21 @@
+EXTM3U
 
+#EXTINF:-1 ,Ntv
+http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 ,Rtv
+http://103.163.247.39/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 ,Channel I
+http://103.163.247.39/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 ,Bangla vision
+http://103.163.247.39/local_out/banglavision/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 ,
+http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 ,
+http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 ,
+http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
+http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
+http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
+http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3
+http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
+http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
