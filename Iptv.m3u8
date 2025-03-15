@@ -1,5 +1,8 @@
 EXTM3U
 
+#EXTINF:-1 ,STar jalsha
+http://103.122.74.6:8888/hls/starJalsha.m3u8
+
 #EXTINF:-1 ,Ntv
 http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 ,Rtv
@@ -56,8 +59,8 @@ http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
 http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 ,
 http://103.163.247.39/local_out/banglavision/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 ,
-
+#EXTINF:-1 ,STar jalsha
+http://103.122.74.6:8888/hls/starJalsha.m3u8
 
 http://119.152.240.15:8001/playlist.m3u8
 
