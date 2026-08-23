@@ -1,1 +1,299 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="0000_tsports" tvg-name="0000_T-Sports" tvg-logo="http://103.151.60.188:12345/tvlogo/TSports.jpg" group-title="Sports",0000_T-Sports
+http://103.151.60.162:2122/play/a030/index.m3u8?hls
+#EXTINF:-1 tvg-id="0001_tsports" tvg-name="0001_TSPORTS" tvg-logo="http://103.151.60.188:12345/tvlogo/TSports.jpg" group-title="Sports",0001_TSPORTS
+http://192.168.55.1:8000/play/a09w/index.m3u8?hls
+#EXTINF:-1 tvg-id="a_sports" tvg-name="A Sports" tvg-logo="http://103.151.60.188:12345/tvlogo/sports.png" group-title="Sports",A Sports
+http://103.151.60.162:2122/play/a02z/index.m3u8?hls
+#EXTINF:-1 tvg-id="bein_1" tvg-name="Bein 1" tvg-logo="http://103.151.60.188:12345/tvlogo/BEIN1-HD.png" group-title="Sports",Bein 1
+http://103.151.60.162:2122/play/a0fb/index.m3u8?hls
+#EXTINF:-1 tvg-id="bein_sports_2" tvg-name="Bein sports 2" tvg-logo="http://103.151.60.188:12345/tvlogo/Bein sports 2.png" group-title="Sports",Bein sports 2
+http://103.151.60.162:2122/play/a0fc/index.m3u8?hls
+#EXTINF:-1 tvg-id="beinxtrim" tvg-name="Bein-Xtrim" tvg-logo="http://103.151.60.188:12345/tvlogo/bein-xtrim.png" group-title="Sports",Bein-Xtrim
+http://103.151.60.162:2122/play/a00t/index.m3u8?hls
+#EXTINF:-1 tvg-id="eurosports" tvg-name="EuroSports" tvg-logo="http://103.151.60.188:12345/tvlogo/sports.png" group-title="Sports",EuroSports
+http://103.151.60.162:2122/play/a01i/index.m3u8?hls
+#EXTINF:-1 tvg-id="fifa_unity_hd_2" tvg-name="Fifa Unity HD 2" tvg-logo="http://103.151.60.188:12345/tvlogo/fifa_unity_hd_2.png" group-title="Sports",Fifa Unity HD 2
+http://103.151.60.162:2122/play/a0f8/index.m3u8?hls
+#EXTINF:-1 tvg-id="fifa_unity_sd_2" tvg-name="Fifa unity SD 2" tvg-logo="http://103.151.60.188:12345/tvlogo/fifa unity sd 2.png" group-title="Sports",Fifa unity SD 2
+http://103.151.60.162:2122/play/a0f7/index.m3u8?hls
+#EXTINF:-1 tvg-id="kas_sport_1" tvg-name="KAS Sport 1" tvg-logo="http://103.151.60.188:12345/tvlogo/kas sport 1.png" group-title="Sports",KAS Sport 1
+http://103.151.60.162:2122/play/a02c/index.m3u8?hls
+#EXTINF:-1 tvg-id="kas_sport_2" tvg-name="KAS Sport 2" tvg-logo="http://103.151.60.188:12345/tvlogo/kas sport 2.png" group-title="Sports",KAS Sport 2
+http://103.151.60.162:2122/play/a02d/index.m3u8?hls
+#EXTINF:-1 tvg-id="pappare_tv_1_sl" tvg-name="Pappare Tv 1 SL" tvg-logo="http://103.151.60.188:12345/tvlogo/&tv.png" group-title="Sports",Pappare Tv 1 SL
+http://103.151.60.162:2122/play/a0fm/index.m3u8?hls
+#EXTINF:-1 tvg-id="pappare_tv_2_sl" tvg-name="Pappare Tv 2 SL" tvg-logo="http://103.151.60.188:12345/tvlogo/&tv.png" group-title="Sports",Pappare Tv 2 SL
+http://103.151.60.162:2122/play/a0fn/index.m3u8?hls
+#EXTINF:-1 tvg-id="ptv_sports" tvg-name="PTV Sports" tvg-logo="http://103.151.60.188:12345/tvlogo/PTV Sports.png" group-title="Sports",PTV Sports
+http://103.151.60.162:2122/play/a0f9/index.m3u8?hls
+#EXTINF:-1 tvg-id="skynet_spots" tvg-name="SKYNET SPOTS" tvg-logo="http://103.151.60.188:12345/tvlogo/skynet spots.png" group-title="Sports",SKYNET SPOTS
+http://103.151.60.162:2122/play/a025/index.m3u8?hls
+#EXTINF:-1 tvg-id="sony_sports_1" tvg-name="Sony Sports 1" tvg-logo="http://103.151.60.188:12345/tvlogo/sports.png" group-title="Sports",Sony Sports 1
+http://103.151.60.162:2122/play/a01c/index.m3u8?hls
+#EXTINF:-1 tvg-id="sony_sports_2" tvg-name="Sony Sports 2" tvg-logo="http://103.151.60.188:12345/tvlogo/sports.png" group-title="Sports",Sony Sports 2
+http://103.151.60.162:2122/play/a01b/index.m3u8?hls
+#EXTINF:-1 tvg-id="sony_sports_ten" tvg-name="Sony Sports ten" tvg-logo="http://103.151.60.188:12345/tvlogo/sony-sports-TEN-5.jpg" group-title="Sports",Sony Sports ten
+http://103.151.60.162:2122/play/a01t/index.m3u8?hls
+#EXTINF:-1 tvg-id="sony_sports_ten_1__rs_1900" tvg-name="SONY SPORTS TEN 1 - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/sports.png" group-title="Sports",SONY SPORTS TEN 1 - Rs 19.00
+http://192.168.55.1:8000/play/a0h8/index.m3u8?hls
+#EXTINF:-1 tvg-id="sony_sports_ten_1_hd__rs_3000" tvg-name="SONY SPORTS TEN 1 HD - Rs 30.00" tvg-logo="http://103.151.60.188:12345/tvlogo/sports.png" group-title="Sports",SONY SPORTS TEN 1 HD - Rs 30.00
+http://192.168.55.1:8000/play/a0pc/index.m3u8?hls
+#EXTINF:-1 tvg-id="sony_sports_ten_3_hindi__rs_1900" tvg-name="SONY SPORTS TEN 3 Hindi - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/sports.png" group-title="Sports",SONY SPORTS TEN 3 Hindi - Rs 19.00
+http://192.168.55.1:8000/play/a0k9/index.m3u8?hls
+#EXTINF:-1 tvg-id="sony_sports_ten_3_hindi_hd__rs_3000" tvg-name="SONY SPORTS TEN 3 Hindi HD - Rs 30.00" tvg-logo="http://103.151.60.188:12345/tvlogo/sports.png" group-title="Sports",SONY SPORTS TEN 3 Hindi HD - Rs 30.00
+http://192.168.55.1:8000/play/a0pm/index.m3u8?hls
+#EXTINF:-1 tvg-id="sony_sports_ten_5__rs_1900" tvg-name="SONY SPORTS TEN 5 - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/sony-sports-TEN-5.jpg" group-title="Sports",SONY SPORTS TEN 5 - Rs 19.00
+http://192.168.55.1:8000/play/a0kn/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_sport_2_dl" tvg-name="Star Sport 2 DL" tvg-logo="http://103.151.60.188:12345/tvlogo/star_sport_2_dl.png" group-title="Sports",Star Sport 2 DL
+http://103.151.60.162:2122/play/a00v/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_sport_3" tvg-name="Star sport 3" tvg-logo="http://103.151.60.188:12345/tvlogo/star sport 3.png" group-title="Sports",Star sport 3
+http://103.151.60.162:2122/play/a029/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_sports_1" tvg-name="Star Sports 1" tvg-logo="http://103.151.60.188:12345/tvlogo/starsports1hindihd.png" group-title="Sports",Star Sports 1
+http://103.151.60.162:2122/play/a01a/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_sports_1__rs_1900" tvg-name="Star Sports 1 - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/sports.png" group-title="Sports",Star Sports 1 - Rs 19.00
+http://192.168.55.1:8000/play/a0np/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_sports_1_hd__rs_1900" tvg-name="Star Sports 1 HD - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/starsports1hd.png" group-title="Sports",Star Sports 1 HD - Rs 19.00
+http://192.168.55.1:8000/play/a0l2/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_sports_1_hindi_hd__rs_1900" tvg-name="Star Sports 1 Hindi HD - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/starsports1hindihd.png" group-title="Sports",Star Sports 1 Hindi HD - Rs 19.00
+http://192.168.55.1:8000/play/a0gd/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_sports_1_telugu__rs_1900" tvg-name="Star Sports 1 Telugu - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/sports.png" group-title="Sports",Star Sports 1 Telugu - Rs 19.00
+http://192.168.55.1:8000/play/a0nk/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_sports_1_telugu_hd__rs_1900" tvg-name="Star Sports 1 Telugu HD - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/sports.png" group-title="Sports",Star Sports 1 Telugu HD - Rs 19.00
+http://192.168.55.1:8000/play/a0kz/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_sports_2" tvg-name="Star Sports 2" tvg-logo="http://103.151.60.188:12345/tvlogo/starsports2hd.png" group-title="Sports",Star Sports 2
+http://103.151.60.162:2122/play/a019/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_sports_2__rs_1900" tvg-name="Star Sports 2 - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/sports.png" group-title="Sports",Star Sports 2 - Rs 19.00
+http://192.168.55.1:8000/play/a0n4/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_sports_2_hd__rs_1900" tvg-name="Star Sports 2 HD - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/starsports2hd.png" group-title="Sports",Star Sports 2 HD - Rs 19.00
+http://192.168.55.1:8000/play/a0fz/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_sports_2_hindi__rs_1900" tvg-name="Star Sports 2 Hindi - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/sports.png" group-title="Sports",Star Sports 2 Hindi - Rs 19.00
+http://192.168.55.1:8000/play/a0g8/index.m3u8?hls
+#EXTINF:-1 tvg-id="start_sports_select_2" tvg-name="Start sports select 2" tvg-logo="http://103.151.60.188:12345/tvlogo/TSports.jpg" group-title="Sports",Start sports select 2
+http://103.151.60.162:2122/play/a027/index.m3u8?hls
+#EXTINF:-1 tvg-id="ten_cricket" tvg-name="Ten cricket" tvg-logo="http://103.151.60.188:12345/tvlogo/tencricket.png" group-title="Sports",Ten cricket
+http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
+#EXTINF:-1 tvg-id="unite8_sports_1_hd__rs_900" tvg-name="Unite8 Sports 1 HD - Rs 9.00" tvg-logo="http://103.151.60.188:12345/tvlogo/sports.png" group-title="Sports",Unite8 Sports 1 HD - Rs 9.00
+http://192.168.55.1:8000/play/a0fx/index.m3u8?hls
+#EXTINF:-1 tvg-id="unite8_sports_2__rs_800" tvg-name="Unite8 Sports 2 - Rs 8.00" tvg-logo="http://103.151.60.188:12345/tvlogo/sports.png" group-title="Sports",Unite8 Sports 2 - Rs 8.00
+http://192.168.55.1:8000/play/a0n0/index.m3u8?hls
+#EXTINF:-1 tvg-id="atn_bangla" tvg-name="ATN Bangla" tvg-logo="http://103.151.60.188:12345/tvlogo/atn bangla.png" group-title="Kolkata",ATN Bangla
+http://192.168.55.1:8000/play/a0ag/index.m3u8?hls
+#EXTINF:-1 tvg-id="bangla_cenama" tvg-name="Bangla Cenama" tvg-logo="http://103.151.60.188:12345/tvlogo/bangla_cenama.png" group-title="Kolkata",Bangla Cenama
+http://103.151.60.162:2122/play/a02m/index.m3u8?hls
+#EXTINF:-1 tvg-id="bangla_vision" tvg-name="Bangla Vision" tvg-logo="http://103.151.60.188:12345/tvlogo/banglavision.png" group-title="Kolkata",Bangla Vision
+http://192.168.55.1:8000/play/a0ai/index.m3u8?hls
+#EXTINF:-1 tvg-id="banglatv_hd" tvg-name="BanglaTV HD" tvg-logo="http://103.151.60.188:12345/tvlogo/Banglatv hd.png" group-title="Kolkata",BanglaTV HD
+http://192.168.55.1:8000/play/a0ah/index.m3u8?hls
+#EXTINF:-1 tvg-id="colors_bangla_hd" tvg-name="Colors Bangla HD" tvg-logo="http://103.151.60.188:12345/tvlogo/colors-bangla.png" group-title="Kolkata",Colors Bangla HD
+http://103.151.60.162:2122/play/a02o/index.m3u8?hls
+#EXTINF:-1 tvg-id="enter_10_bangla" tvg-name="ENter 10 Bangla" tvg-logo="http://103.151.60.188:12345/tvlogo/enter10bangla.jpg" group-title="Kolkata",ENter 10 Bangla
+http://103.151.60.162:2122/play/a0fa/index.m3u8?hls
+#EXTINF:-1 tvg-id="jolsha_bangla_bd" tvg-name="Jolsha Bangla bd" tvg-logo="http://103.151.60.188:12345/tvlogo/jolsha bangla bd.PNG" group-title="Kolkata",Jolsha Bangla bd
+http://103.151.60.162:2122/play/a02x/index.m3u8?hls
+#EXTINF:-1 tvg-id="jolsha_movie" tvg-name="Jolsha Movie" tvg-logo="http://103.151.60.188:12345/tvlogo/jolsha movies.png" group-title="Kolkata",Jolsha Movie
+http://103.151.60.162:2122/play/a00x/index.m3u8?hls
+#EXTINF:-1 tvg-id="rupshi_bangla" tvg-name="Rupshi Bangla" tvg-logo="http://103.151.60.188:12345/tvlogo/rupshi bangla.png" group-title="Kolkata",Rupshi Bangla
+http://103.151.60.162:2122/play/a02n/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_bangla" tvg-name="STAR BANGLA" tvg-logo="http://103.151.60.188:12345/tvlogo/star bangla.png" group-title="Kolkata",STAR BANGLA
+http://103.151.60.162:2122/play/a0f5/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_jolsha" tvg-name="Star Jolsha" tvg-logo="http://103.151.60.188:12345/tvlogo/star jolsha.jpg" group-title="Kolkata",Star Jolsha
+http://103.151.60.162:2122/play/a00w/index.m3u8?hls
+#EXTINF:-1 tvg-id="sun_bangla" tvg-name="SUN Bangla" tvg-logo="http://103.151.60.188:12345/tvlogo/Sun_Bangla.png" group-title="Kolkata",SUN Bangla
+http://103.151.60.162:2122/play/a02a/index.m3u8?hls
+#EXTINF:-1 tvg-id="sun_udaya_comedy__rs_700" tvg-name="Sun Udaya Comedy - Rs 7.00" tvg-logo="http://103.151.60.188:12345/tvlogo/sun_udaya_comedy__rs_700.png" group-title="Kolkata",Sun Udaya Comedy - Rs 7.00
+http://192.168.55.1:8000/play/a0kc/index.m3u8?hls
+#EXTINF:-1 tvg-id="sunbangla" tvg-name="SunBangla" tvg-logo="http://103.151.60.188:12345/tvlogo/Sun_Bangla.png" group-title="Kolkata",SunBangla
+http://103.151.60.162:2122/play/a01p/index.m3u8?hls
+#EXTINF:-1 tvg-id="zeebangla" tvg-name="Zee-Bangla" tvg-logo="http://103.151.60.188:12345/tvlogo/zeebangla.png" group-title="Kolkata",Zee-Bangla
+http://103.151.60.162:2122/play/a011/index.m3u8?hls
+#EXTINF:-1 tvg-id="zeebangla_hd" tvg-name="Zee-Bangla HD" tvg-logo="http://103.151.60.188:12345/tvlogo/zee-bangla-hd-logo-300x300-1.jpg" group-title="Kolkata",Zee-Bangla HD
+http://103.151.60.162:2122/play/a02p/index.m3u8?hls
+#EXTINF:-1 tvg-id="al_jazeera" tvg-name="Al jazeera" tvg-logo="http://103.151.60.188:12345/tvlogo/aljazeera.png" group-title="News",Al jazeera
+http://103.151.60.162:2122/play/a0ff/index.m3u8?hls
+#EXTINF:-1 tvg-id="atn_news" tvg-name="ATN News" tvg-logo="http://103.151.60.188:12345/tvlogo/atn news.png" group-title="News",ATN News
+http://192.168.55.1:8000/play/a0aq/index.m3u8?hls
+#EXTINF:-1 tvg-id="bbc_news" tvg-name="BBC News" tvg-logo="http://103.151.60.188:12345/tvlogo/bbc.jpg" group-title="News",BBC News
+http://103.151.60.162:2122/play/a0fl/index.m3u8?hls
+#EXTINF:-1 tvg-id="btv_news_hd" tvg-name="BTV NEWS HD" tvg-logo="http://103.151.60.188:12345/tvlogo/btv news hd.png" group-title="News",BTV NEWS HD
+http://192.168.55.1:8000/play/a0a5/index.m3u8?hls
+#EXTINF:-1 tvg-id="channel_24hd" tvg-name="Channel 24HD" tvg-logo="http://103.151.60.188:12345/tvlogo/channel24.png" group-title="News",Channel 24HD
+http://192.168.55.1:8000/play/a0ab/index.m3u8?hls
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="http://103.151.60.188:12345/tvlogo/cnn.jpg" group-title="News",CNN
+http://103.151.60.162:2122/play/a0fg/index.m3u8?hls
+#EXTINF:-1 tvg-id="dbc_news" tvg-name="DBC NEWS" tvg-logo="http://103.151.60.188:12345/tvlogo/DBC News.png" group-title="News",DBC NEWS
+http://192.168.55.1:8000/play/a0am/index.m3u8?hls
+#EXTINF:-1 tvg-id="ekattor_tv_hd" tvg-name="Ekattor TV HD" tvg-logo="http://103.151.60.188:12345/tvlogo/&tv.png" group-title="News",Ekattor TV HD
+http://192.168.55.1:8000/play/a0ak/index.m3u8?hls
+#EXTINF:-1 tvg-id="jamuna_television" tvg-name="Jamuna Television" tvg-logo="http://103.151.60.188:12345/tvlogo/Jamuna television.png" group-title="News",Jamuna Television
+http://192.168.55.1:8000/play/a0at/index.m3u8?hls
+#EXTINF:-1 tvg-id="news24hd" tvg-name="NEWS24HD" tvg-logo="http://103.151.60.188:12345/tvlogo/news24.png" group-title="News",NEWS24HD
+http://192.168.55.1:8000/play/a0an/index.m3u8?hls
+#EXTINF:-1 tvg-id="www_247" tvg-name="WWW 24*7" tvg-logo="http://103.151.60.188:12345/tvlogo/www 247.png" group-title="News",WWW 24*7
+http://103.151.60.162:2122/play/a00p/index.m3u8?hls
+#EXTINF:-1 tvg-id="tv" tvg-name="&tv" tvg-logo="http://103.151.60.188:12345/tvlogo/&tv.png" group-title="Entertainment",&tv
+http://103.151.60.162:2122/play/a020/index.m3u8?hls
+#EXTINF:-1 tvg-id="tv__rs_1000" tvg-name="&tv - Rs 10.00" tvg-logo="http://103.151.60.188:12345/tvlogo/&tv.png" group-title="Entertainment",&tv - Rs 10.00
+http://192.168.55.1:8000/play/a0kh/index.m3u8?hls
+#EXTINF:-1 tvg-id="ananda_tv" tvg-name="Ananda TV" tvg-logo="http://103.151.60.188:12345/tvlogo/&tv.png" group-title="Entertainment",Ananda TV
+http://192.168.55.1:8000/play/a0ar/index.m3u8?hls
+#EXTINF:-1 tvg-id="asiantvhd" tvg-name="asiantvHD" tvg-logo="http://103.151.60.188:12345/tvlogo/&tv.png" group-title="Entertainment",asiantvHD
+http://192.168.55.1:8000/play/a0a3/index.m3u8?hls
+#EXTINF:-1 tvg-id="bijoytv" tvg-name="BijoyTV" tvg-logo="http://103.151.60.188:12345/tvlogo/bijoytv.png" group-title="Entertainment",BijoyTV
+http://192.168.55.1:8000/play/a0a6/index.m3u8?hls
+#EXTINF:-1 tvg-id="channel_i_hd" tvg-name="Channel I HD" tvg-logo="http://103.151.60.188:12345/tvlogo/channeli.png" group-title="Entertainment",Channel I HD
+http://192.168.55.1:8000/play/a0aj/index.m3u8?hls
+#EXTINF:-1 tvg-id="channel_s" tvg-name="Channel S" tvg-logo="http://103.151.60.188:12345/tvlogo/Channel_S_Bangladesh_Logo.png" group-title="Entertainment",Channel S
+http://192.168.55.1:8000/play/a0av/index.m3u8?hls
+#EXTINF:-1 tvg-id="desh_tv" tvg-name="Desh TV" tvg-logo="http://103.151.60.188:12345/tvlogo/desh tv.png" group-title="Entertainment",Desh TV
+http://192.168.55.1:8000/play/a0ao/index.m3u8?hls
+#EXTINF:-1 tvg-id="ekhon_tv" tvg-name="EKHON TV" tvg-logo="http://103.151.60.188:12345/tvlogo/EKHON TV.jpg" group-title="Entertainment",EKHON TV
+http://192.168.55.1:8000/play/a0ac/index.m3u8?hls
+#EXTINF:-1 tvg-id="ekushey_tv" tvg-name="Ekushey TV" tvg-logo="http://103.151.60.188:12345/tvlogo/&tv.png" group-title="Entertainment",Ekushey TV
+http://192.168.55.1:8000/play/a0as/index.m3u8?hls
+#EXTINF:-1 tvg-id="global_tv_hd" tvg-name="GLOBAL TV HD" tvg-logo="http://103.151.60.188:12345/tvlogo/global tv hd.png" group-title="Entertainment",GLOBAL TV HD
+http://192.168.55.1:8000/play/a0ad/index.m3u8?hls
+#EXTINF:-1 tvg-id="mohona_tv" tvg-name="Mohona TV" tvg-logo="http://103.151.60.188:12345/tvlogo/&tv.png" group-title="Entertainment",Mohona TV
+http://192.168.55.1:8000/play/a0ap/index.m3u8?hls
+#EXTINF:-1 tvg-id="mytv_hd" tvg-name="MYTV HD" tvg-logo="http://103.151.60.188:12345/tvlogo/&tv.png" group-title="Entertainment",MYTV HD
+http://192.168.55.1:8000/play/a0au/index.m3u8?hls
+#EXTINF:-1 tvg-id="nexus_tv" tvg-name="NEXUS TV" tvg-logo="http://103.151.60.188:12345/tvlogo/nexustv.png" group-title="Entertainment",NEXUS TV
+http://192.168.55.1:8000/play/a0aa/index.m3u8?hls
+#EXTINF:-1 tvg-id="ntv_hd_en1" tvg-name="NTV HD EN-1" tvg-logo="http://103.151.60.188:12345/tvlogo/ntv hd en-1.png" group-title="Entertainment",NTV HD EN-1
+http://192.168.55.1:8000/play/a0al/index.m3u8?hls
+#EXTINF:-1 tvg-id="rtv_hd" tvg-name="Rtv HD" tvg-logo="http://103.151.60.188:12345/tvlogo/rtv hd.png" group-title="Entertainment",Rtv HD
+http://192.168.55.1:8000/play/a0a8/index.m3u8?hls
+#EXTINF:-1 tvg-id="sa_tv_hd" tvg-name="SA TV HD" tvg-logo="http://103.151.60.188:12345/tvlogo/&tv.png" group-title="Entertainment",SA TV HD
+http://192.168.55.1:8000/play/a0a2/index.m3u8?hls
+#EXTINF:-1 tvg-id="set_hd__rs_3000" tvg-name="SET HD - Rs 30.00" tvg-logo="http://103.151.60.188:12345/tvlogo/set_hd__rs_3000.png" group-title="Entertainment",SET HD - Rs 30.00
+http://192.168.55.1:8000/play/a0kf/index.m3u8?hls
+#EXTINF:-1 tvg-id="setmax" tvg-name="SET-MAX" tvg-logo="http://103.151.60.188:12345/tvlogo/setmax.png" group-title="Entertainment",SET-MAX
+http://103.151.60.162:2122/play/a015/index.m3u8?hls
+#EXTINF:-1 tvg-id="sonic" tvg-name="Sonic" tvg-logo="http://103.151.60.188:12345/tvlogo/nicksonic.png" group-title="Entertainment",Sonic
+http://103.151.60.162:2122/play/a02v/index.m3u8?hls
+#EXTINF:-1 tvg-id="sony_aath__rs_1000" tvg-name="SONY AATH - Rs 10.00" tvg-logo="http://103.151.60.188:12345/tvlogo/sony_aath.jpg" group-title="Entertainment",SONY AATH - Rs 10.00
+http://192.168.55.1:8000/play/a0ft/index.m3u8?hls
+#EXTINF:-1 tvg-id="sony_att" tvg-name="Sony att" tvg-logo="http://103.151.60.188:12345/tvlogo/sony.png" group-title="Entertainment",Sony att
+http://103.151.60.162:2122/play/a023/index.m3u8?hls
+#EXTINF:-1 tvg-id="sony_pix" tvg-name="Sony Pix" tvg-logo="http://103.151.60.188:12345/tvlogo/sony pix.jpg" group-title="Entertainment",Sony Pix
+http://103.151.60.162:2122/play/a01d/index.m3u8?hls
+#EXTINF:-1 tvg-id="sony_sab__rs_1900" tvg-name="SONY SAB - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/sonysab.png" group-title="Entertainment",SONY SAB - Rs 19.00
+http://192.168.55.1:8000/play/a0kd/index.m3u8?hls
+#EXTINF:-1 tvg-id="sony_set" tvg-name="Sony Set" tvg-logo="http://103.151.60.188:12345/tvlogo/sony-set-max.png" group-title="Entertainment",Sony Set
+http://103.151.60.162:2122/play/a01o/index.m3u8?hls
+#EXTINF:-1 tvg-id="sony_set_ent" tvg-name="Sony set ent" tvg-logo="http://103.151.60.188:12345/tvlogo/sony.png" group-title="Entertainment",Sony set ent
+http://103.151.60.162:2122/play/a024/index.m3u8?hls
+#EXTINF:-1 tvg-id="sony_sub_hd" tvg-name="Sony Sub HD" tvg-logo="http://103.151.60.188:12345/tvlogo/sony.png" group-title="Entertainment",Sony Sub HD
+http://103.151.60.162:2122/play/a01q/index.m3u8?hls
+#EXTINF:-1 tvg-id="sonymaxhd" tvg-name="SonyMaxHD" tvg-logo="http://103.151.60.188:12345/tvlogo/sonymaxhd.png" group-title="Entertainment",SonyMaxHD
+http://103.151.60.162:2122/play/a014/index.m3u8?hls
+#EXTINF:-1 tvg-id="srk" tvg-name="SRK" tvg-logo="http://103.151.60.188:12345/tvlogo/srk.png" group-title="Entertainment",SRK
+http://103.151.60.162:2122/play/a00r/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_jalsha_hd__rs_2500" tvg-name="Star Jalsha HD - Rs 25.00" tvg-logo="http://103.151.60.188:12345/tvlogo/starjalsha.jpg" group-title="Entertainment",Star Jalsha HD - Rs 25.00
+http://192.168.55.1:8000/play/a0pi/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_maa_gold__rs_1200" tvg-name="Star Maa Gold - Rs 12.00" tvg-logo="http://103.151.60.188:12345/tvlogo/star_maa_gold__rs_1200.png" group-title="Entertainment",Star Maa Gold - Rs 12.00
+http://192.168.55.1:8000/play/a0gi/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_maa_hd__rs_3000" tvg-name="STAR Maa HD - Rs 30.00" tvg-logo="http://103.151.60.188:12345/tvlogo/star_maa_hd__rs_3000.png" group-title="Entertainment",STAR Maa HD - Rs 30.00
+http://192.168.55.1:8000/play/a0p6/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_suvarna_hd__rs_2500" tvg-name="Star Suvarna HD - Rs 25.00" tvg-logo="http://103.151.60.188:12345/tvlogo/star_suvarna_hd__rs_2500.png" group-title="Entertainment",Star Suvarna HD - Rs 25.00
+http://192.168.55.1:8000/play/a0l3/index.m3u8?hls
+#EXTINF:-1 tvg-id="travel_xp" tvg-name="Travel_XP" tvg-logo="http://103.151.60.188:12345/tvlogo/travel_xp.jpg" group-title="Entertainment",Travel_XP
+http://103.151.60.162:2122/play/a01s/index.m3u8?hls
+#EXTINF:-1 tvg-id="vijay_takkar__rs_200" tvg-name="Vijay Takkar - Rs 2.00" tvg-logo="http://103.151.60.188:12345/tvlogo/vijay_takkar__rs_200.png" group-title="Entertainment",Vijay Takkar - Rs 2.00
+http://192.168.55.1:8000/play/a0p9/index.m3u8?hls
+#EXTINF:-1 tvg-id="zee_business__rs_010" tvg-name="Zee Business - Rs 0.10" tvg-logo="http://103.151.60.188:12345/tvlogo/zee business - rs 0.1.png" group-title="Entertainment",Zee Business - Rs 0.10
+http://192.168.55.1:8000/play/a0kb/index.m3u8?hls
+#EXTINF:-1 tvg-id="zee_kannada_hd__rs_1900" tvg-name="Zee Kannada HD - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/zee_kannada_hd__rs_1900.png" group-title="Entertainment",Zee Kannada HD - Rs 19.00
+http://192.168.55.1:8000/play/a0l5/index.m3u8?hls
+#EXTINF:-1 tvg-id="zee_tamil_hd__rs_1900" tvg-name="Zee Tamil HD - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/zee tamil hd - rs 19.00.png" group-title="Entertainment",Zee Tamil HD - Rs 19.00
+http://192.168.55.1:8000/play/a0bk/index.m3u8?hls
+#EXTINF:-1 tvg-id="zee_tv__rs_1900" tvg-name="Zee TV - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/&tv.png" group-title="Entertainment",Zee TV - Rs 19.00
+http://192.168.55.1:8000/play/a0i0/index.m3u8?hls
+#EXTINF:-1 tvg-id="zeetv" tvg-name="Zee-TV" tvg-logo="http://103.151.60.188:12345/tvlogo/Zee Tv1664974411.png" group-title="Entertainment",Zee-TV
+http://103.151.60.162:2122/play/a01u/index.m3u8?hls
+#EXTINF:-1 tvg-id="cartonnetwork" tvg-name="CartonNetwork" tvg-logo="http://103.151.60.188:12345/tvlogo/cartonnetwork.png" group-title="Kids & Cartoons",CartonNetwork
+http://103.151.60.162:2122/play/a010/index.m3u8?hls
+#EXTINF:-1 tvg-id="dencyinternational" tvg-name="DencyInternational" tvg-logo="http://103.151.60.188:12345/tvlogo/dencyinternational.png" group-title="Kids & Cartoons",DencyInternational
+http://103.151.60.162:2122/play/a018/index.m3u8?hls
+#EXTINF:-1 tvg-id="discovery_kids" tvg-name="Discovery kids" tvg-logo="http://103.151.60.188:12345/tvlogo/discovery_kids.png" group-title="Kids & Cartoons",Discovery kids
+http://103.151.60.162:2122/play/a02e/index.m3u8?hls
+#EXTINF:-1 tvg-id="disen_jr" tvg-name="Disen Jr" tvg-logo="http://103.151.60.188:12345/tvlogo/disen_jr.png" group-title="Kids & Cartoons",Disen Jr
+http://103.151.60.162:2122/play/a016/index.m3u8?hls
+#EXTINF:-1 tvg-id="nick_jr" tvg-name="nick jr" tvg-logo="http://103.151.60.188:12345/tvlogo/nick_jr.png" group-title="Kids & Cartoons",nick jr
+http://103.151.60.162:2122/play/a00s/index.m3u8?hls
+#EXTINF:-1 tvg-id="nicklendo" tvg-name="NickLendo" tvg-logo="http://103.151.60.188:12345/tvlogo/nick.png" group-title="Kids & Cartoons",NickLendo
+http://103.151.60.162:2122/play/a017/index.m3u8?hls
+#EXTINF:-1 tvg-id="pogo" tvg-name="Pogo" tvg-logo="http://103.151.60.188:12345/tvlogo/pogo.jpg" group-title="Kids & Cartoons",Pogo
+http://103.151.60.162:2122/play/a01e/index.m3u8?hls
+#EXTINF:-1 tvg-id="flix" tvg-name="&flix" tvg-logo="http://103.151.60.188:12345/tvlogo/andflixhd.png" group-title="Movies",&flix
+http://103.151.60.162:2122/play/a01m/index.m3u8?hls
+#EXTINF:-1 tvg-id="colors_bangla_cinema__rs_1500" tvg-name="Colors Bangla Cinema - Rs 15.00" tvg-logo="http://103.151.60.188:12345/tvlogo/colors-bangla.png" group-title="Movies",Colors Bangla Cinema - Rs 15.00
+http://192.168.55.1:8000/play/a0gx/index.m3u8?hls
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="http://103.151.60.188:12345/tvlogo/hbo.png" group-title="Movies",HBO
+http://103.151.60.162:2122/play/a00q/index.m3u8?hls
+#EXTINF:-1 tvg-id="hitsmovie" tvg-name="HitsMovie" tvg-logo="http://103.151.60.188:12345/tvlogo/hitsmovie.png" group-title="Movies",HitsMovie
+http://103.151.60.162:2122/play/a01h/index.m3u8?hls
+#EXTINF:-1 tvg-id="movie_now_hd" tvg-name="Movie Now HD" tvg-logo="http://103.151.60.188:12345/tvlogo/Movie Now hd.png" group-title="Movies",Movie Now HD
+http://103.151.60.162:2122/play/a02w/index.m3u8?hls
+#EXTINF:-1 tvg-id="sony_max_hd__rs_1900" tvg-name="SONY MAX HD - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/sonymaxhd.png" group-title="Movies",SONY MAX HD - Rs 19.00
+http://192.168.55.1:8000/play/a0fu/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_gold" tvg-name="Star Gold" tvg-logo="http://103.151.60.188:12345/tvlogo/stargold2.png" group-title="Movies",Star Gold
+http://103.151.60.162:2122/play/a01n/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_movie_hd" tvg-name="STAR MOVIE HD" tvg-logo="http://103.151.60.188:12345/tvlogo/star movie hd.png" group-title="Movies",STAR MOVIE HD
+http://103.151.60.162:2122/play/a02k/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_movie_select_hd" tvg-name="STAR MOVIE Select HD" tvg-logo="http://103.151.60.188:12345/tvlogo/starmovies.png" group-title="Movies",STAR MOVIE Select HD
+http://103.151.60.162:2122/play/a02l/index.m3u8?hls
+#EXTINF:-1 tvg-id="stargold2" tvg-name="Star-Gold-2" tvg-logo="http://103.151.60.188:12345/tvlogo/stargold2.png" group-title="Movies",Star-Gold-2
+http://103.151.60.162:2122/play/a01v/index.m3u8?hls
+#EXTINF:-1 tvg-id="supper_hit" tvg-name="Supper HIT" tvg-logo="http://103.151.60.188:12345/tvlogo/supper_hit.png" group-title="Movies",Supper HIT
+http://103.151.60.162:2122/play/a02f/index.m3u8?hls
+#EXTINF:-1 tvg-id="animal_planet" tvg-name="Animal Planet" tvg-logo="http://103.151.60.188:12345/tvlogo/animal.png" group-title="Education",Animal Planet
+http://103.151.60.162:2122/play/a01l/index.m3u8?hls
+#EXTINF:-1 tvg-id="asianet_hd__rs_3000" tvg-name="Asianet HD - Rs 30.00" tvg-logo="http://103.151.60.188:12345/tvlogo/asian.png" group-title="Education",Asianet HD - Rs 30.00
+http://192.168.55.1:8000/play/a0pg/index.m3u8?hls
+#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery" tvg-logo="http://103.151.60.188:12345/tvlogo/discovery.png" group-title="Education",Discovery
+http://103.151.60.162:2122/play/a01k/index.m3u8?hls
+#EXTINF:-1 tvg-id="discovery_science" tvg-name="Discovery Science" tvg-logo="http://103.151.60.188:12345/tvlogo/discoveryscience.png" group-title="Education",Discovery Science
+http://103.151.60.162:2122/play/a01j/index.m3u8?hls
+#EXTINF:-1 tvg-id="net_gio" tvg-name="NET GIO" tvg-logo="http://103.151.60.188:12345/tvlogo/net gio.png" group-title="Education",NET GIO
+http://103.151.60.162:2122/play/a01g/index.m3u8?hls
+#EXTINF:-1 tvg-id="asianet_plus__rs_700" tvg-name="Asianet Plus - Rs 7.00" tvg-logo="http://103.151.60.188:12345/tvlogo/asian.png" group-title="Hindi",Asianet Plus - Rs 7.00
+http://192.168.55.1:8000/play/a0nt/index.m3u8?hls
+#EXTINF:-1 tvg-id="boishakhi_tv" tvg-name="Boishakhi TV" tvg-logo="http://103.151.60.188:12345/tvlogo/&tv.png" group-title="Hindi",Boishakhi TV
+http://192.168.55.1:8000/play/a0a7/index.m3u8?hls
+#EXTINF:-1 tvg-id="colors__rs_1900" tvg-name="Colors - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/colors.png" group-title="Hindi",Colors - Rs 19.00
+http://192.168.55.1:8000/play/a0ko/index.m3u8?hls
+#EXTINF:-1 tvg-id="colors_cineplex" tvg-name="Colors Cineplex" tvg-logo="http://103.151.60.188:12345/tvlogo/colors-cineplex-bollywood.jpg" group-title="Hindi",Colors Cineplex
+http://103.151.60.162:2122/play/a02s/index.m3u8?hls
+#EXTINF:-1 tvg-id="colors_gujarati__rs_700" tvg-name="Colors Gujarati - Rs 7.00" tvg-logo="http://103.151.60.188:12345/tvlogo/colors.png" group-title="Hindi",Colors Gujarati - Rs 7.00
+http://192.168.55.1:8000/play/a0ns/index.m3u8?hls
+#EXTINF:-1 tvg-id="colors_hd" tvg-name="Colors HD" tvg-logo="http://103.151.60.188:12345/tvlogo/colors.png" group-title="Hindi",Colors HD
+http://103.151.60.162:2122/play/a02q/index.m3u8?hls
+#EXTINF:-1 tvg-id="colors_hd__rs_1900" tvg-name="Colors HD - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/colors.png" group-title="Hindi",Colors HD - Rs 19.00
+http://192.168.55.1:8000/play/a0l4/index.m3u8?hls
+#EXTINF:-1 tvg-id="colors_infinity_hd" tvg-name="Colors Infinity HD" tvg-logo="http://103.151.60.188:12345/tvlogo/colors.png" group-title="Hindi",Colors Infinity HD
+http://103.151.60.162:2122/play/a02r/index.m3u8?hls
+#EXTINF:-1 tvg-id="colors_kannada_hd__rs_3000" tvg-name="Colors Kannada HD - Rs 30.00" tvg-logo="http://103.151.60.188:12345/tvlogo/colors.png" group-title="Hindi",Colors Kannada HD - Rs 30.00
+http://192.168.55.1:8000/play/a0g3/index.m3u8?hls
+#EXTINF:-1 tvg-id="history_18" tvg-name="History 18" tvg-logo="http://103.151.60.188:12345/tvlogo/history 18.png" group-title="Hindi",History 18
+http://103.151.60.162:2122/play/a00y/index.m3u8?hls
+#EXTINF:-1 tvg-id="hit_dl" tvg-name="HIT DL" tvg-logo="http://103.151.60.188:12345/tvlogo/hit dl.png" group-title="Hindi",HIT DL
+http://103.151.60.162:2122/play/a02g/index.m3u8?hls
+#EXTINF:-1 tvg-id="hum_stury" tvg-name="Hum Stury" tvg-logo="http://103.151.60.188:12345/tvlogo/hum stury.png" group-title="Hindi",Hum Stury
+http://103.151.60.162:2122/play/a00u/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_plus__rs_1900" tvg-name="STAR PLUS - Rs 19.00" tvg-logo="http://103.151.60.188:12345/tvlogo/starplus.png" group-title="Hindi",STAR PLUS - Rs 19.00
+http://192.168.55.1:8000/play/a0k8/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_plus_hd" tvg-name="STAR Plus HD" tvg-logo="http://103.151.60.188:12345/tvlogo/starplus.png" group-title="Hindi",STAR Plus HD
+http://103.151.60.162:2122/play/a0fo/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_plus_hd__rs_2500" tvg-name="STAR Plus HD - Rs 25.00" tvg-logo="http://103.151.60.188:12345/tvlogo/starplus.png" group-title="Hindi",STAR Plus HD - Rs 25.00
+http://192.168.55.1:8000/play/a0l1/index.m3u8?hls
+#EXTINF:-1 tvg-id="star_suvarna_plus__rs_1200" tvg-name="Star Suvarna Plus - Rs 12.00" tvg-logo="http://103.151.60.188:12345/tvlogo/aplus.jpg" group-title="Hindi",Star Suvarna Plus - Rs 12.00
+http://192.168.55.1:8000/play/a0nn/index.m3u8?hls
+#EXTINF:-1 tvg-id="madani_tv" tvg-name="Madani TV" tvg-logo="http://103.151.60.188:12345/tvlogo/&tv.png" group-title="Religious",Madani TV
+http://192.168.55.1:8000/play/a0ae/index.m3u8?hls
+#EXTINF:-1 tvg-id="btv_chattagram" tvg-name="BTV Chattagram" tvg-logo="http://103.151.60.188:12345/tvlogo/btv chattagram.png" group-title="National",BTV Chattagram
+http://192.168.55.1:8000/play/a0a1/index.m3u8?hls
+#EXTINF:-1 tvg-id="btv_hd" tvg-name="BTV HD" tvg-logo="http://103.151.60.188:12345/tvlogo/btv hd.png" group-title="National",BTV HD
+http://192.168.55.1:8000/play/a0a4/index.m3u8?hls
+#EXTINF:-1 tvg-id="sangsad_tv_hd" tvg-name="SANGSAD TV HD" tvg-logo="http://103.151.60.188:12345/tvlogo/&tv.png" group-title="National",SANGSAD TV HD
+http://192.168.55.1:8000/play/a0a9/index.m3u8?hls
