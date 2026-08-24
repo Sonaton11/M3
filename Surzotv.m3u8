@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AnandaTV.bd" tvg-name="Ananda TV" group-title="Bangladesh",Ananda TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
-#EXTINF:-1 tvg-id="AsianTV.bd" tvg-name="Asian TV" group-title="Bangladesh",Asian TV
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://tvsen6.aynaott.com/asiantv/index.m3u8
 #EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" group-title="Bangladesh",ATN Bangla
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -15,178 +7,31 @@ https://tvsen5.aynaott.com/atnbangla/index.m3u8
 #EXTVLCOPT:meta-quality=360p
 #EXTVLCOPT:meta-feed=SD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNNews.bd" tvg-name="ATN News" group-title="Bangladesh",ATN News
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://bozztv.com/rongo/rongo-ATNNews/index.m3u8
-#EXTINF:-1 tvg-id="BanglaTV.bd" tvg-name="Bangla TV" group-title="Bangladesh",Bangla TV
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://tvsen6.aynaott.com/banglatv/index.m3u8
-#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="Bangla Vision" group-title="Bangladesh",Bangla Vision
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 tvg-id="BijoyTV.bd" tvg-name="Bijoy TV" group-title="Bangladesh",Bijoy TV
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://tvsen6.aynaott.com/bijoytv/index.m3u8
-#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV" group-title="Bangladesh",Boishakhi TV
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://tvsen6.aynaott.com/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-id="BTVChattogram.bd" tvg-name="BTV Chattogram" group-title="Bangladesh",BTV Chattogram
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://bozztv.com/rongo/rongo-BTVChattagram/index.m3u8
-#EXTINF:-1 tvg-id="BTVNational.bd" tvg-name="BTV National" group-title="Bangladesh",BTV National
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
-#EXTINF:-1 tvg-id="BTVNews.bd" tvg-name="BTV News" group-title="Bangladesh",BTV News
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://tvsen6.aynaott.com/BTVNews/index.m3u8
-#EXTINF:-1 tvg-id="BTVWorld.bd" tvg-name="BTV World" group-title="Bangladesh",BTV World
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
-#EXTINF:-1 tvg-id="Channel24.bd" tvg-name="Channel 24" group-title="Bangladesh",Channel 24
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8
-#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9" group-title="Bangladesh",Channel 9
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1 tvg-id="ChannelI.bd" tvg-name="Channel I" group-title="Bangladesh",Channel I
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-id="ChannelS.bd" tvg-name="Channel S" group-title="Bangladesh",Channel S
 #EXTVLCOPT:meta-feed=SD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DBCNews.bd" tvg-name="DBC News" group-title="Bangladesh",DBC News
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:-1 tvg-id="DeeptoTV.bd" tvg-name="Deepto TV" group-title="Bangladesh",Deepto TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 tvg-id="DeshTV.bd" tvg-name="Desh TV" group-title="Bangladesh",Desh TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
-#EXTINF:-1 tvg-id="DurontoTV.bd" tvg-name="Duronto TV" group-title="Bangladesh",Duronto TV
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://trs1.aynaott.com/duronto/index.m3u8
-#EXTINF:-1 tvg-id="EkattorTV.bd" tvg-name="Ekattor TV" group-title="Bangladesh",Ekattor TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
-#EXTINF:-1 tvg-id="EkhonTV.bd" tvg-name="Ekhon TV" group-title="Bangladesh",Ekhon TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://tplay.live/out/bangladesh/ekhontv.index.m3u8
-#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV" group-title="Bangladesh",Ekushey TV
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://tvsen6.aynaott.com/etv/index.m3u8
-#EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="Gazi TV" group-title="Bangladesh",Gazi TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-#EXTINF:-1 tvg-id="GlobalTelevision.bd" tvg-name="Global Television" group-title="Bangladesh",Global Television
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 #EXTINF:-1 tvg-id="GreenTV.bd" tvg-name="Green TV" group-title="Bangladesh",Green TV
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="IndependentTV.bd" tvg-name="Independent TV" group-title="Bangladesh",Independent TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8
-#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-name="Jamuna TV" group-title="Bangladesh",Jamuna TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8
-#EXTINF:-1 tvg-id="MaasrangaTV.bd" tvg-name="Maasranga TV" group-title="Bangladesh",Maasranga TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-id="MadaniChannelBangla.bd" tvg-name="Madani Channel Bangla" group-title="Bangladesh",Madani Channel Bangla
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1 tvg-id="MohonaTV.bd" tvg-name="Mohona TV" group-title="Bangladesh",Mohona TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://bozztv.com/rongo/rongo-MohonaTV/index.m3u8
-#EXTINF:-1 tvg-id="MovieBangla.bd" tvg-name="Movie Bangla" group-title="Bangladesh",Movie Bangla
-#EXTVLCOPT:meta-feed=SD
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-id="MyTV.bd" tvg-name="My TV" group-title="Bangladesh",My TV
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://tvsen6.aynaott.com/mytv/index.m3u8
 #EXTINF:-1 tvg-id="NANTV.bd" tvg-name="NAN TV" group-title="Bangladesh",NAN TV
 #EXTVLCOPT:meta-feed=SD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="News21BanglaTV.bd" tvg-name="News 21 Bangla TV" group-title="Bangladesh",News 21 Bangla TV
 #EXTVLCOPT:meta-feed=SD
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="News24.bd" tvg-name="News 24" group-title="Bangladesh",News 24
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://bozztv.com/rongo/rongo-News24HD/index.m3u8
-#EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" group-title="Bangladesh",NTV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 tvg-id="NTVEurope.bd" tvg-name="NTV Europe" group-title="Bangladesh",NTV Europe
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://tvsen5.aynascope.net/ntveurope/index.m3u8
 #EXTINF:-1 tvg-id="RajdhaniTV.bd" tvg-name="Rajdhani TV" group-title="Bangladesh",Rajdhani TV
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" group-title="Bangladesh",RTV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://bozztv.com/rongo/rongo-RTV/index.m3u8
 #EXTINF:-1 tvg-id="RupashiBanglaTV.bd" tvg-name="Rupashi Bangla TV" group-title="Bangladesh",Rupashi Bangla TV
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SangsadTV.bd" tvg-name="Sangsad TV" group-title="Bangladesh",Sangsad TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8
-#EXTINF:-1 tvg-id="SATV.bd" tvg-name="SA TV" group-title="Bangladesh",SA TV
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://tvsen6.aynaott.com/satv/index.m3u8
-#EXTINF:-1 tvg-id="SomoyNewsTV.bd" tvg-name="Somoy News TV" group-title="Bangladesh",Somoy News TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://bozztv.com/rongo/rongo-somoy/index.m3u8
-#EXTINF:-1 tvg-id="StarNews.bd" tvg-name="Star News" group-title="Bangladesh",Star News
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports" group-title="Bangladesh",T Sports
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://trs1.aynaott.com/tsports/index.m3u8
-#EXTINF:-1 tvg-id="VoktaTV.bd" tvg-name="Vokta TV" group-title="Bangladesh",Vokta TV
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://vokta.raytahost.com/live/voktatv/index.m3u8
 #EXTINF:-1 tvg-id="10TV.in" tvg-name="10 TV" group-title="India",10 TV
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -203,10 +48,6 @@ https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-4.pishow.tv/live/1007/master.m3u8
-#EXTINF:-1 tvg-id="6TVTelugu.in" tvg-name="6 TV Telugu" group-title="India",6 TV Telugu
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://cdn-1.pishow.tv/live/232/master.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" group-title="India",7S Music
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
@@ -219,22 +60,10 @@ https://cdn-1.pishow.tv/live/1211/master.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8
-#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas" group-title="India",9X Jhakaas
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="India",9XM
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://9xjio.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="India",9X Tashan
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="AadinathTV.in" tvg-name="Aadinath TV" group-title="India",Aadinath TV
-#EXTVLCOPT:meta-quality=396p
-#EXTVLCOPT:meta-feed=SD
-https://keralive.com/yupp/tv.php?c=aadinath-tv&e=.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak" group-title="India",Aaj Tak
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=HD
@@ -267,10 +96,6 @@ https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8
-#EXTINF:-1 tvg-id="AasthaKannada.in" tvg-name="Aastha Kannada" group-title="India",Aastha Kannada
-#EXTVLCOPT:meta-quality=480p
-#EXTVLCOPT:meta-feed=SD
-https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AasthaPrime1.in" tvg-name="Aastha Prime 1" group-title="India",Aastha Prime 1
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -299,10 +124,6 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
-#EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" group-title="India",ABP Majha
-#EXTVLCOPT:meta-quality=360p
-#EXTVLCOPT:meta-feed=SD
-https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" group-title="India",ABP News
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -315,10 +136,6 @@ https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://live.legitpro.co.in/cnnnews/index.m3u8
-#EXTINF:-1 tvg-id="AllTimeMovies.in" tvg-name="All Time Movies" group-title="India",All Time Movies
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="AmarUjala.in" tvg-name="AmarUjala" group-title="India",AmarUjala
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -339,54 +156,18 @@ https://live.legitpro.co.in/anandtv/index.m3u8
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
-#EXTINF:-1 tvg-id="Andflix.in" tvg-name="&flix" group-title="India",&flix
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.72.101.252:8080/live/1322.m3u8
-#EXTINF:-1 tvg-id="Andpictures.in" tvg-name="&pictures" group-title="India",&pictures
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.72.101.252:8080/live/185.m3u8
-#EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" group-title="India",&TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=International
-https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
-#EXTINF:-1 tvg-id="AndxplorHD.in" tvg-name="&xplor HD" group-title="India",&xplor HD
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://149.71.34.166:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="AndyHaryana.in" tvg-name="Andy Haryana" group-title="India",Andy Haryana
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="India",Angel TV
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=Africa
-https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AnjanTV.in" tvg-name="Anjan TV" group-title="India",Anjan TV
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
-#EXTINF:-1 tvg-id="AnmolCinema.in" tvg-name="Anmol Cinema" group-title="India",Anmol Cinema
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.175.73.12:8080/live/271/271_0.m3u8
-#EXTINF:-1 tvg-id="AnmolCinema2.in" tvg-name="Anmol Cinema 2" group-title="India",Anmol Cinema 2
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.175.73.12:8080/live/257/257_0.m3u8
-#EXTINF:-1 tvg-id="AnmolTV.in" tvg-name="Anmol TV" group-title="India",Anmol TV
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 tvg-id="AradanaTV.in" tvg-name="Aradana TV" group-title="India",Aradana TV
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-1.pishow.tv/live/961/master.m3u8
-#EXTINF:-1 tvg-id="ArgusNews.in" tvg-name="Argus News" group-title="India",Argus News
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/argus-news/index.m3u8?ads.vf=IvskZqDOz5G
 #EXTINF:-1 tvg-id="ArputharYesuTV.in" tvg-name="Arputhar Yesu TV" group-title="India",Arputhar Yesu TV
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -395,34 +176,14 @@ https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8
-#EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet" group-title="India",Asianet
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" group-title="India",Asianet Middle East
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
-#EXTINF:-1 tvg-id="AsianetMovies.in" tvg-name="Asianet Movies" group-title="India",Asianet Movies
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://149.71.34.166:8000/play/a06e/index.m3u8
-#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" group-title="India",Asianet News
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetPlus.in" tvg-name="Asianet Plus" group-title="India",Asianet Plus
-#EXTVLCOPT:meta-quality=396p
-#EXTVLCOPT:meta-feed=SD
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 #EXTINF:-1 tvg-id="AsianetSuvarnaNews.in" tvg-name="Asianet Suvarna News" group-title="India",Asianet Suvarna News
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
-#EXTINF:-1 tvg-id="AssamTalks.in" tvg-name="Assam Talks" group-title="India",Assam Talks
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://trs1.aynaott.com/AssamTalks/index.m3u8
 #EXTINF:-1 tvg-id="AwaazIndiaTV.in" tvg-name="Awaaz India TV" group-title="India",Awaaz India TV
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -431,26 +192,6 @@ https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 #EXTVLCOPT:meta-quality=360p
 #EXTVLCOPT:meta-feed=SD
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" group-title="India",B4U Bhojpuri
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-#EXTINF:-1 tvg-id="B4UHitz.in" tvg-name="B4U Hitz" group-title="India",B4U Hitz
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://115.42.65.142:9981/stream/channelid/1099703605
-#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="India",B4U Kadak
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="India",B4U Movies
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=APAC
-https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="India",B4U Music
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=APAC
-https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" group-title="India",Balle Balle
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -459,10 +200,6 @@ https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BhakthiSiri.in" tvg-name="Bhakthi Siri" group-title="India",Bhakthi Siri
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bhakthi-siri/index.m3u8?ads.vf=gdvNYWzRJii
 #EXTINF:-1 tvg-id="BhakthiTV.in" tvg-name="Bhakthi TV" group-title="India",Bhakthi TV
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -475,18 +212,6 @@ https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8
 #EXTVLCOPT:meta-quality=480p
 #EXTVLCOPT:meta-feed=SD
 https://stream1.livebox.co.in/VCAREhls/live.m3u8
-#EXTINF:-1 tvg-id="BharatSamachar.in" tvg-name="Bharat Samachar" group-title="India",Bharat Samachar
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://trs1.aynaott.com/BharatSamachar/index.m3u8
-#EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-name="Bhojpuri Cinema" group-title="India",Bhojpuri Cinema
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8
-#EXTINF:-1 tvg-id="BigMagic.in" tvg-name="Big Magic" group-title="India",Big Magic
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8
 #EXTINF:-1 tvg-id="BIGTV.in" tvg-name="BIG TV" group-title="India",BIG TV
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -511,10 +236,6 @@ https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelWIN.in" tvg-name="Channel WIN" group-title="India",Channel WIN
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://trs1.aynaott.com/ChannelWin/index.m3u8
 #EXTINF:-1 tvg-id="ChardiklaGurbaaniTV.in" tvg-name="Chardikla Gurbaani TV" group-title="India",Chardikla Gurbaani TV
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -554,58 +275,6 @@ https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="India",Colors
 #EXTVLCOPT:meta-feed=HD
 http://59.103.38.46:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="India",Colors Bangla
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.72.101.252:8080/live/756.m3u8
-#EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-name="Colors Bangla Cinema" group-title="India",Colors Bangla Cinema
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1657.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" group-title="India",Colors Cineplex
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://149.71.34.166:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" tvg-name="Colors Cineplex Bollywood" group-title="India",Colors Cineplex Bollywood
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1763.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-name="Colors Cineplex Superhits" group-title="India",Colors Cineplex Superhits
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1450.m3u8
-#EXTINF:-1 tvg-id="ColorsGujarati.in" tvg-name="Colors Gujarati" group-title="India",Colors Gujarati
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/196.m3u8
-#EXTINF:-1 tvg-id="ColorsGujaratiCinema.in" tvg-name="Colors Gujarati Cinema" group-title="India",Colors Gujarati Cinema
-#EXTVLCOPT:meta-quality=360p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1324.m3u8
-#EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-name="Colors Infinity" group-title="India",Colors Infinity
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://149.71.34.166:8002/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="ColorsKannada.in" tvg-name="Colors Kannada" group-title="India",Colors Kannada
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.72.101.252:8080/live/757.m3u8
-#EXTINF:-1 tvg-id="ColorsKannadaCinema.in" tvg-name="Colors Kannada Cinema" group-title="India",Colors Kannada Cinema
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1632.m3u8
-#EXTINF:-1 tvg-id="ColorsMarathi.in" tvg-name="Colors Marathi" group-title="India",Colors Marathi
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.72.101.252:8080/live/755.m3u8
-#EXTINF:-1 tvg-id="ColorsSuper.in" tvg-name="Colors Super" group-title="India",Colors Super
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/785.m3u8
-#EXTINF:-1 tvg-id="ColorsTamil.in" tvg-name="Colors Tamil" group-title="India",Colors Tamil
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.72.101.252:8080/live/429.m3u8
 #EXTINF:-1 tvg-id="CTVNAKDPlus.in" tvg-name="CTVN AKD Plus" group-title="India",CTVN AKD Plus
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -622,14 +291,6 @@ https://cdn-6.pishow.tv/live/395/master.m3u8
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-1.pishow.tv/live/957/master.m3u8
-#EXTINF:-1 tvg-id="Dangal2.in" tvg-name="Dangal 2" group-title="India",Dangal 2
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://103.213.31.109:90/Dangal2/playlist.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in" tvg-name="Dangal TV" group-title="India",Dangal TV
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://103.213.31.109:90/Dangal/playlist.m3u8
 #EXTINF:-1 tvg-id="DDArunPrabha.in" tvg-name="DD Arun Prabha" group-title="India",DD Arun Prabha
 #EXTVLCOPT:meta-feed=SD
 https://cdn-4.pishow.tv/live/32/master.m3u8
@@ -640,10 +301,6 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/in
 #EXTINF:-1 tvg-id="DDBangla.in" tvg-name="DD Bangla" group-title="India",DD Bangla
 #EXTVLCOPT:meta-feed=SD
 https://cdn-4.pishow.tv/live/37/master.m3u8
-#EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" group-title="India",DD Bharati
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://103.213.31.109:90/DDBharati/playlist.m3u8
 #EXTINF:-1 tvg-id="DDBihar.in" tvg-name="DD Bihar" group-title="India",DD Bihar
 #EXTVLCOPT:meta-quality=504p
 #EXTVLCOPT:meta-feed=SD
@@ -671,16 +328,9 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/in
 #EXTVLCOPT:meta-quality=504p
 #EXTVLCOPT:meta-feed=SD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
-#EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India" group-title="India",DD India
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://103.213.31.109:90/DDIndia/playlist.m3u8
 #EXTINF:-1 tvg-id="DDJharkhand.in" tvg-name="DD Jharkhand" group-title="India",DD Jharkhand
 #EXTVLCOPT:meta-feed=SD
 https://cdn-1.pishow.tv/live/1617/master.m3u8
-#EXTINF:-1 tvg-id="DDKashir.in" tvg-name="DD Kashir" group-title="India",DD Kashir
-#EXTVLCOPT:meta-feed=SD
-https://cdn-6.pishow.tv/live/16/master.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" group-title="India",DD Kisan
 #EXTVLCOPT:meta-quality=504p
 #EXTVLCOPT:meta-feed=SD
@@ -734,10 +384,6 @@ https://cdn-3.pishow.tv/live/30/master.m3u8
 #EXTVLCOPT:meta-quality=504p
 #EXTVLCOPT:meta-feed=SD
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
-#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="India",DD Sports
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://103.213.31.109:90/ZeeAnmolCinema2/playlist.m3u8
 #EXTINF:-1 tvg-id="DDTamil.in" tvg-name="DD Tamil" group-title="India",DD Tamil
 #EXTVLCOPT:meta-feed=SD
 https://cdn-2.pishow.tv/live/26/master.m3u8
@@ -765,21 +411,9 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/in
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
-#EXTINF:-1 tvg-id="Dhamaal.in" tvg-name="Dhamaal" group-title="India",Dhamaal
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://cdn-1.pishow.tv/live/1291/master.m3u8
-#EXTINF:-1 tvg-id="DhamakaMoviesB4U.in" tvg-name="Dhamaka Movies B4U" group-title="India",Dhamaka Movies B4U
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://cdn-1.pishow.tv/live/235/master.m3u8
 #EXTINF:-1 tvg-id="DharmSandesh.in" tvg-name="Dharm Sandesh" group-title="India",Dharm Sandesh
 #EXTVLCOPT:meta-feed=SD
 https://cdn-2.pishow.tv/live/1455/master.m3u8
-#EXTINF:-1 tvg-id="DharsanTV.in" tvg-name="Dharsan TV" group-title="India",Dharsan TV
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
 #EXTINF:-1 tvg-id="DheeranTV.in" tvg-name="Dheeran TV" group-title="India",Dheeran TV
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
@@ -788,22 +422,6 @@ https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-1.pishow.tv/live/1456/master.m3u8
-#EXTINF:-1 tvg-id="DigiShala.in" tvg-name="Digi Shala" group-title="India",Digi Shala
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1227.m3u8
-#EXTINF:-1 tvg-id="DishBuzz.in" tvg-name="Dish Buzz" group-title="India",Dish Buzz
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://217.20.112.199:8080/animalplanet/index.m3u8
-#EXTINF:-1 tvg-id="DisneyInternationalHD.in" tvg-name="Disney International HD" group-title="India",Disney International HD
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-http://149.71.34.166:8002/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="Disney Junior" group-title="India",Disney Junior
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://149.71.34.166:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="DivyavaniTV.in" tvg-name="Divyavani TV" group-title="India",Divyavani TV
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
@@ -812,14 +430,6 @@ https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
-#EXTINF:-1 tvg-id="DY365.in" tvg-name="DY 365" group-title="India",DY 365
-#EXTVLCOPT:meta-quality=360p
-#EXTVLCOPT:meta-feed=SD
-https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
-#EXTINF:-1 tvg-id="E24.in" tvg-name="E 24" group-title="India",E 24
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://trs1.aynaott.com/e24/index.m3u8
 #EXTINF:-1 tvg-id="EETTV.in" tvg-name="EET TV" group-title="India",EET TV
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -828,10 +438,6 @@ https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="EpicBharat.in" tvg-name="Epic Bharat" group-title="India",Epic Bharat
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.175.73.12:8080/live/471/master.m3u8
 #EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-name="Epic Bhojpuri" group-title="India",Epic Bhojpuri
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
@@ -844,10 +450,6 @@ https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=Digital
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
-#EXTINF:-1 tvg-id="ETNow.in" tvg-name="ET Now" group-title="India",ET Now
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
 #EXTINF:-1 tvg-id="ETNowSwadesh.in" tvg-name="ET Now Swadesh" group-title="India",ET Now Swadesh
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -888,58 +490,6 @@ https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=HD
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="EVidya1.in" tvg-name="E-Vidya 1" group-title="India",E-Vidya 1
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/400.m3u8
-#EXTINF:-1 tvg-id="EVidya10.in" tvg-name="E-Vidya 10" group-title="India",E-Vidya 10
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/411.m3u8
-#EXTINF:-1 tvg-id="EVidya11.in" tvg-name="E-Vidya 11" group-title="India",E-Vidya 11
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1410.m3u8
-#EXTINF:-1 tvg-id="EVidya12.in" tvg-name="E-Vidya 12" group-title="India",E-Vidya 12
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1532.m3u8
-#EXTINF:-1 tvg-id="EVidya2.in" tvg-name="E-Vidya 2" group-title="India",E-Vidya 2
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/402.m3u8
-#EXTINF:-1 tvg-id="EVidya3.in" tvg-name="E-Vidya 3" group-title="India",E-Vidya 3
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/405.m3u8
-#EXTINF:-1 tvg-id="EVidya4.in" tvg-name="E-Vidya 4" group-title="India",E-Vidya 4
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/406.m3u8
-#EXTINF:-1 tvg-id="EVidya5.in" tvg-name="E-Vidya 5" group-title="India",E-Vidya 5
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/407.m3u8
-#EXTINF:-1 tvg-id="EVidya6.in" tvg-name="E-Vidya 6" group-title="India",E-Vidya 6
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/408.m3u8
-#EXTINF:-1 tvg-id="EVidya7.in" tvg-name="E-Vidya 7" group-title="India",E-Vidya 7
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/404.m3u8
-#EXTINF:-1 tvg-id="EVidya8.in" tvg-name="E-Vidya 8" group-title="India",E-Vidya 8
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/409.m3u8
-#EXTINF:-1 tvg-id="EVidya9.in" tvg-name="E-Vidya 9" group-title="India",E-Vidya 9
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/410.m3u8
-#EXTINF:-1 tvg-id="FaktMarathi.in" tvg-name="Fakt Marathi" group-title="India",Fakt Marathi
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.175.73.12:8080/live/188/master.m3u8
 #EXTINF:-1 tvg-id="FatehTV.in" tvg-name="Fateh TV" group-title="India",Fateh TV
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -948,10 +498,6 @@ https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
 #EXTVLCOPT:meta-quality=360p
 #EXTVLCOPT:meta-feed=SD
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
-#EXTINF:-1 tvg-id="FlowersTV.in" tvg-name="Flowers TV" group-title="India",Flowers TV
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/634.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" group-title="India",Food Food
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
@@ -964,30 +510,10 @@ https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
-#EXTINF:-1 tvg-id="Goa365.in" tvg-name="Goa365" group-title="India",Goa365
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://ktismaservers.in:3086/live/goa365live.m3u8
-#EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" group-title="India",Goldmines
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://trs1.aynaott.com/Goldmines/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines2.in" tvg-name="Goldmines 2" group-title="India",Goldmines 2
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 tvg-id="GoldminesBollywood.in" tvg-name="Goldmines Bollywood" group-title="India",Goldmines Bollywood
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" group-title="India",Goldmines Movies
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://103.213.31.109:90/GoldminesMovies/playlist.m3u8
-#EXTINF:-1 tvg-id="GoodnessTV.in" tvg-name="Goodness TV" group-title="India",Goodness TV
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://mumt02.tangotv.in/GOODNESSTV/index.m3u8
 #EXTINF:-1 tvg-id="GoodNewsToday.in" tvg-name="Good News Today" group-title="India",Good News Today
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -1015,10 +541,6 @@ https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://guaranteenews.in:8443/live/gnews/index.m3u8
-#EXTINF:-1 tvg-id="GujaratFirst.in" tvg-name="Gujarat First" group-title="India",Gujarat First
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gujarat-first/index.m3u8?ads.vf=aXdXji5fkdu
 #EXTINF:-1 tvg-id="GulistanNews.in" tvg-name="Gulistan News" group-title="India",Gulistan News
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -1027,10 +549,6 @@ https://live.gulistannews.in/hls/gul.m3u8
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-6.pishow.tv/live/14/master.m3u8
-#EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" group-title="India",Hare Krsna TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 #EXTINF:-1 tvg-id="HarvestTV.in" tvg-name="Harvest TV" group-title="India",Harvest TV
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -1047,26 +565,14 @@ https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://account20.livebox.co.in/charleshls/live.m3u8
-#EXTINF:-1 tvg-id="HiDost.in" tvg-name="Hi Dost!" group-title="India",Hi Dost!
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://trs1.aynaott.com/HiDost/index.m3u8
 #EXTINF:-1 tvg-id="HighNews.in" tvg-name="High News" group-title="India",High News
 #EXTVLCOPT:meta-quality=480p
 #EXTVLCOPT:meta-feed=SD
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
-#EXTINF:-1 tvg-id="HindiKhabar.in" tvg-name="Hindi Khabar" group-title="India",Hindi Khabar
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://trs1.aynaott.com/HindiKhabar/index.m3u8
 #EXTINF:-1 tvg-id="HinduDharmam.in" tvg-name="Hindu Dharmam" group-title="India",Hindu Dharmam
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-1.pishow.tv/live/959/master.m3u8
-#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="India",History TV18
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" group-title="India",HMTV
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -1091,22 +597,10 @@ https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
-#EXTINF:-1 tvg-id="IndiaNewsMadhyaPradeshChhattisgarh.in" tvg-name="India News Madhya Pradesh/Chhattisgarh" group-title="India",India News Madhya Pradesh/Chhattisgarh
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
-#EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today" group-title="India",India Today
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="India TV" group-title="India",India TV
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
-#EXTINF:-1 tvg-id="IndiaTVAapKiAdalat.in" tvg-name="India TV Aap Ki Adalat" group-title="India",India TV Aap Ki Adalat
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="IndiaTVSpeedNews.in" tvg-name="India TV Speed News" group-title="India",India TV Speed News
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=HD
@@ -1123,10 +617,6 @@ https://cdn-1.pishow.tv/live/411/master.m3u8
 #EXTVLCOPT:meta-quality=396p
 #EXTVLCOPT:meta-feed=SD
 https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
-#EXTINF:-1 tvg-id="Insync.in" tvg-name="Insync" group-title="India",Insync
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.175.73.12:8080/live/160/master.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-name="Isai Aruvi" group-title="India",Isai Aruvi
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
@@ -1139,22 +629,10 @@ https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
 #EXTVLCOPT:meta-quality=396p
 #EXTVLCOPT:meta-feed=SD
 https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="JaiMaharashtra.in" tvg-name="Jai Maharashtra" group-title="India",Jai Maharashtra
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://cdn-3.pishow.tv/live/1465/master.m3u8
-#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" group-title="India",Jalsha Movies
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.229.254.25:7001/play/a0dt/index.m3u8
 #EXTINF:-1 tvg-id="JanamTV.in" tvg-name="Janam TV" group-title="India",Janam TV
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
-#EXTINF:-1 tvg-id="JanapriyamTV.in" tvg-name="Janapriyam TV" group-title="India",Janapriyam TV
-#EXTVLCOPT:meta-quality=480p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1455.m3u8
 #EXTINF:-1 tvg-id="JantaTV.in" tvg-name="Janta TV" group-title="India",Janta TV
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -1163,14 +641,6 @@ https://live.jswk.online/IK_RTPM/live/index.m3u8
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-6.pishow.tv/live/10004/master.m3u8
-#EXTINF:-1 tvg-id="JayaMax.in" tvg-name="Jaya Max" group-title="India",Jaya Max
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/420.m3u8
-#EXTINF:-1 tvg-id="JayaTV.in" tvg-name="Jaya TV" group-title="India",Jaya TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.72.101.252:8080/live/419.m3u8
 #EXTINF:-1 tvg-id="JeevanTV.in" tvg-name="Jeevan TV" group-title="India",Jeevan TV
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
@@ -1179,22 +649,10 @@ https://cdn-3.pishow.tv/live/1467/master.m3u8
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-2.pishow.tv/live/989/master.m3u8
-#EXTINF:-1 tvg-id="JK24x7News.in" tvg-name="JK 24x7 News" group-title="India",JK 24x7 News
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://live.gulistannews.in/hls/jk.m3u8
-#EXTINF:-1 tvg-id="JMovie.in" tvg-name="J Movie" group-title="India",J Movie
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/417.m3u8
 #EXTINF:-1 tvg-id="Jonack.in" tvg-name="Jonack" group-title="India",Jonack
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-6.pishow.tv/live/10006/master.m3u8
-#EXTINF:-1 tvg-id="JothiTV.in" tvg-name="Jothi TV" group-title="India",Jothi TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-http://103.154.3.101:5001/live/2768.m3u8
 #EXTINF:-1 tvg-id="JoyTV.in" tvg-name="Joy TV" group-title="India",Joy TV
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -1202,10 +660,6 @@ https://ktismaservers.in:3412/live/joytvlive.m3u8
 #EXTINF:-1 tvg-id="JTBSClassic.in" tvg-name="JTBS Classic" group-title="India",JTBS Classic
 #EXTVLCOPT:meta-feed=Main
 https://jtbsclassic.dpdns.org/live.m3u8
-#EXTINF:-1 tvg-id="KairaliArabia.in" tvg-name="Kairali Arabia" group-title="India",Kairali Arabia
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 #EXTINF:-1 tvg-id="KairaliNews.in" tvg-name="Kairali News" group-title="India",Kairali News
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -1222,10 +676,6 @@ https://cdn-3.pishow.tv/live/1530/master.m3u8
 #EXTVLCOPT:meta-quality=396p
 #EXTVLCOPT:meta-feed=SD
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
-#EXTINF:-1 tvg-id="KalaignarTV.in" tvg-name="Kalaignar TV" group-title="India",Kalaignar TV
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1209.m3u8
 #EXTINF:-1 tvg-id="KalikaTV.in" tvg-name="Kalika TV" group-title="India",Kalika TV
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
@@ -1257,10 +707,6 @@ https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTVLCOPT:meta-quality=396p
 #EXTVLCOPT:meta-feed=SD
 https://d1msejlow1t3l4.cloudfront.net/fta/khabreinabhitak/playlist.m3u8
-#EXTINF:-1 tvg-id="KhushbooBangla.in" tvg-name="Khushboo Bangla" group-title="India",Khushboo Bangla
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://trs1.aynaott.com/Khushboo/index.m3u8
 #EXTINF:-1 tvg-id="KiteVicters.in" tvg-name="Kite Victers" group-title="India",Kite Victers
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -1281,10 +727,6 @@ https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://stream.ottlive.co.in/livingindia/index.m3u8
-#EXTINF:-1 tvg-id="LokshahiNews.in" tvg-name="Lokshahi News" group-title="India",Lokshahi News
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://see.lokshahi.live/live/index.m3u8
 #EXTINF:-1 tvg-id="MadhaTV.in" tvg-name="Madha TV" group-title="India",Madha TV
 #EXTVLCOPT:meta-feed=SD
 https://cdn-3.pishow.tv/live/1265/master.m3u8
@@ -1310,22 +752,6 @@ https://cdn-4.pishow.tv/live/1521/master.m3u8
 #EXTVLCOPT:meta-quality=576i
 #EXTVLCOPT:meta-feed=SD
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MalabarNews.in" tvg-name="Malabar News" group-title="India",Malabar News
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
-#EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" group-title="India",Malai Murasu TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="MalarTV.in" tvg-name="Malar TV" group-title="India",Malar TV
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://cdn-3.pishow.tv/live/473/master.m3u8
-#EXTINF:-1 tvg-id="MangoMobileTV.in" tvg-name="Mango Mobile TV" group-title="India",Mango Mobile TV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="India",Manorama News
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -1334,21 +760,9 @@ https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-1.pishow.tv/live/1011/master.m3u8
-#EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-name="Manoranjan Movies" group-title="India",Manoranjan Movies
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://103.213.31.109:90/ManoranjanMovies/playlist.m3u8
 #EXTINF:-1 tvg-id="ManoranjanPrime.in" tvg-name="Manoranjan Prime" group-title="India",Manoranjan Prime
 #EXTVLCOPT:meta-feed=SD
 https://cdn-4.pishow.tv/live/1474/master.m3u8
-#EXTINF:-1 tvg-id="ManoranjanTV.in" tvg-name="Manoranjan TV" group-title="India",Manoranjan TV
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://103.213.31.109:90/ManoranjanTv/playlist.m3u8
-#EXTINF:-1 tvg-id="MantavyaNews.in" tvg-name="Mantavya News" group-title="India",Mantavya News
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8
 #EXTINF:-1 tvg-id="MarutamTV.in" tvg-name="Marutam TV" group-title="India",Marutam TV
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -1357,14 +771,6 @@ https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
-#EXTINF:-1 tvg-id="Mayyazhi.in" tvg-name="Mayyazhi" group-title="India",Mayyazhi
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="India",Mazhavil Manorama
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=HD
-http://103.175.73.12:8080/live/245/master.m3u8
 #EXTINF:-1 tvg-id="MediaOne.in" tvg-name="Media One" group-title="India",Media One
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -1393,73 +799,21 @@ https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-3.pishow.tv/live/1253/master.m3u8
-#EXTINF:-1 tvg-id="MNX.in" tvg-name="MNX" group-title="India",MNX
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://149.71.34.166:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="MoonTV.in" tvg-name="Moon TV" group-title="India",Moon TV
 #EXTVLCOPT:meta-feed=SD
 https://cdn-4.pishow.tv/live/1121/master.m3u8
-#EXTINF:-1 tvg-id="MoviePlex.in" tvg-name="MoviePlex" group-title="India",MoviePlex
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://mumt04.tangotv.in/m18aqlK4MOVIEPLEX/index.m3u8
-#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="Movies Now" group-title="India",Movies Now
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.161.153.165:8000/play/mnh/index.m3u8
-#EXTINF:-1 tvg-id="MoviesNowPlus.in" tvg-name="Movies Now +" group-title="India",Movies Now +
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-http://149.71.34.166:8000/play/a05t/index.m3u8
-#EXTINF:-1 tvg-id="MSignMedia.in" tvg-name="M Sign Media" group-title="India",M Sign Media
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV" group-title="India",MTV
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://149.71.34.166:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="MunsifTV.in" tvg-name="Munsif TV" group-title="India",Munsif TV
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/index.m3u8?ads.vf=bgM_sblbBYC
-#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" group-title="India",Music India
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://trs1.aynaott.com/MusicIndia/index.m3u8
 #EXTINF:-1 tvg-id="NagalandTV.in" tvg-name="Nagaland TV" group-title="India",Nagaland TV
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-6.pishow.tv/live/10014/master.m3u8
-#EXTINF:-1 tvg-id="NambikkaiTV.in" tvg-name="Nambikkai TV" group-title="India",Nambikkai TV
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8
 #EXTINF:-1 tvg-id="NamdhariTV.in" tvg-name="Namdhari TV" group-title="India",Namdhari TV
 #EXTVLCOPT:meta-quality=404p
 #EXTVLCOPT:meta-feed=SD
 https://namdhari.tv/live/sbs1.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" group-title="India",National Geographic
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=HD
-http://149.71.34.166:8002/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.in" tvg-name="National Geographic Wild" group-title="India",National Geographic Wild
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://149.71.34.166:8002/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" group-title="India",NDTV 24x7
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8
-#EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="India",NDTV Good Times
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name="NDTV India" group-title="India",NDTV India
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://103.213.31.109:90/StarUtsavMovies/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTVMadhyaPradeshChhattisgarh.in" tvg-name="NDTV Madhya Pradesh Chhattisgarh" group-title="India",NDTV Madhya Pradesh Chhattisgarh
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -1480,10 +834,6 @@ https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
 #EXTVLCOPT:meta-quality=396p
 #EXTVLCOPT:meta-feed=SD
 https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
-#EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" group-title="India",Network 10
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://trs1.aynaott.com/Network10/index.m3u8
 #EXTINF:-1 tvg-id="News11.in" tvg-name="News 11" group-title="India",News 11
 #EXTVLCOPT:meta-quality=396p
 #EXTVLCOPT:meta-feed=SD
@@ -1516,10 +866,6 @@ https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/maste
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18Kerala.in" tvg-name="News18 Kerala" group-title="India",News18 Kerala
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="News18MadhyaPradeshChhattisgarh.in" tvg-name="News18 Madhya Pradesh/Chhattisgarh" group-title="India",News18 Madhya Pradesh/Chhattisgarh
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -1552,10 +898,6 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News1India.in" tvg-name="News 1 India" group-title="India",News 1 India
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://trs1.aynaott.com/News1India/index.m3u8
 #EXTINF:-1 tvg-id="News1st.in" tvg-name="News 1st" group-title="India",News 1st
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
@@ -1599,14 +941,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/in
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-3.pishow.tv/live/1433/master.m3u8
-#EXTINF:-1 tvg-id="NewsTimeBangla.in" tvg-name="NewsTime Bangla" group-title="India",NewsTime Bangla
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://trs1.aynaott.com/NewsTime/index.m3u8
-#EXTINF:-1 tvg-id="NickHDPlus.in" tvg-name="Nick HD+" group-title="India",Nick HD+
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.72.101.252:8080/live/1226.m3u8
 #EXTINF:-1 tvg-id="NireekshanaTV.in" tvg-name="Nireekshana TV" group-title="India",Nireekshana TV
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
@@ -1643,18 +977,10 @@ https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://live.olidigital.in/olitv/olitv/index.m3u8
-#EXTINF:-1 tvg-id="OnkarOnlyTruthTV.in" tvg-name="Onkar Only Truth TV" group-title="India",Onkar Only Truth TV
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8
 #EXTINF:-1 tvg-id="OrangeBanglaTV.in" tvg-name="Orange Bangla TV" group-title="India",Orange Bangla TV
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-4.pishow.tv/live/1499/master.m3u8
-#EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in" tvg-name="Oscar Movies Bhojpuri" group-title="India",Oscar Movies Bhojpuri
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.175.73.12:8080/live/348/master.m3u8
 #EXTINF:-1 tvg-id="PasandTV.in" tvg-name="Pasand TV" group-title="India",Pasand TV
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
@@ -1699,10 +1025,6 @@ https://livelegitpro.in/hls2/newstime/index.m3u8
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="PravahPicture.in" tvg-name="Pravah Picture" group-title="India",Pravah Picture
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://149.71.34.166:8000/play/a06f/index.m3u8
 #EXTINF:-1 tvg-id="PravasiChannel.in" tvg-name="Pravasi Channel" group-title="India",Pravasi Channel
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -1711,26 +1033,14 @@ https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f079
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
-#EXTINF:-1 tvg-id="PrimeNews.in" tvg-name="Prime News" group-title="India",Prime News
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://mumt02.tangotv.in/PRIMENEWS/index.m3u8
 #EXTINF:-1 tvg-id="PrudentMedia.in" tvg-name="Prudent Media" group-title="India",Prudent Media
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://prudentmcdn.rixcast.com/prudentm.m3u8
-#EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="PTC Chakde" group-title="India",PTC Chakde
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.175.73.12:8080/live/180/master.m3u8
 #EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" group-title="India",PTC Music
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-#EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" group-title="India",PTC News
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.175.73.12:8080/live/182/master.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" group-title="India",PTC Punjabi
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=HD
@@ -1742,22 +1052,10 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/in
 #EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" group-title="India",PTC Simran
 #EXTVLCOPT:meta-feed=SD
 https://cdn-6.pishow.tv/live/1503/master.m3u8
-#EXTINF:-1 tvg-id="PublicFirst.in" tvg-name="Public First" group-title="India",Public First
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.175.73.12:8080/live/237/master.m3u8
 #EXTINF:-1 tvg-id="PublicMovies.in" tvg-name="Public Movies" group-title="India",Public Movies
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
-#EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" group-title="India",Public Music
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.175.73.12:8080/live/240/master.m3u8
-#EXTINF:-1 tvg-id="PublicTV.in" tvg-name="Public TV" group-title="India",Public TV
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://livestreampublictv.sunnxt.com/publictv/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" group-title="India",Punjabi Hits
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -1766,10 +1064,6 @@ https://stream.ottlive.co.in/punjabihits/index.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
-#EXTINF:-1 tvg-id="PunjabiZindabadTV.in" tvg-name="Punjabi Zindabad TV" group-title="India",Punjabi Zindabad TV
-#EXTVLCOPT:meta-quality=360p
-#EXTVLCOPT:meta-feed=SD
-http://stream.pztv.online/pztv/playlist.m3u8
 #EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="India",Puthiya Thalaimurai
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
@@ -1794,18 +1088,6 @@ https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-1.pishow.tv/live/1213/master.m3u8
-#EXTINF:-1 tvg-id="RajNews.in" tvg-name="Raj News" group-title="India",Raj News
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/767.m3u8
-#EXTINF:-1 tvg-id="RajPariwar.in" tvg-name="Raj Pariwar" group-title="India",Raj Pariwar
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/533.m3u8
-#EXTINF:-1 tvg-id="RajTV.in" tvg-name="Raj TV" group-title="India",Raj TV
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/707.m3u8
 #EXTINF:-1 tvg-id="Ramdhenu.in" tvg-name="Ramdhenu" group-title="India",Ramdhenu
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
@@ -1814,10 +1096,6 @@ https://cdn-7.pishow.tv/live/10016/master.m3u8
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-7.pishow.tv/live/10017/master.m3u8
-#EXTINF:-1 tvg-id="RCMusic.in" tvg-name="RC Music" group-title="India",RC Music
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://view.rcserver.in/tmp_hls1/stream/index.m3u8
 #EXTINF:-1 tvg-id="RDXGoa.in" tvg-name="RDX Goa" group-title="India",RDX Goa
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -1850,10 +1128,6 @@ https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kanna
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
-#EXTINF:-1 tvg-id="RomedyNow.in" tvg-name="Romedy Now" group-title="India",Romedy Now
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.157.248.140:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="RongeenTV.in" tvg-name="Rongeen TV" group-title="India",Rongeen TV
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -1866,10 +1140,6 @@ https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
 #EXTVLCOPT:meta-quality=768p
 #EXTVLCOPT:meta-feed=SD
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-#EXTINF:-1 tvg-id="RPlusGold.in" tvg-name="R Plus Gold" group-title="India",R Plus Gold
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://trs1.aynaott.com/RplusGold/index.m3u8
 #EXTINF:-1 tvg-id="RTIndia.in" tvg-name="RT India" group-title="India",RT India
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=HD
@@ -1930,14 +1200,6 @@ https://galaxyott.live/hls/sanaplus.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
-#EXTINF:-1 tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla" group-title="India",Sangeet Bangla
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://trs1.aynaott.com/SangeetBangla/index.m3u8
-#EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-name="Sangeet Bhojpuri" group-title="India",Sangeet Bhojpuri
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-http://103.213.31.109:90/SangeetBhojpuri/playlist.m3u8
 #EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" group-title="India",Sangeet Marathi
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -1950,10 +1212,6 @@ https://cdn-3.pishow.tv/live/1135/master.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=HD
 https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
-#EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" group-title="India",Sansad TV 2
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
 #EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" group-title="India",Sanskar TV
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -1974,10 +1232,6 @@ https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/ind
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-2.pishow.tv/live/475/master.m3u8
-#EXTINF:-1 tvg-id="SarvDharamSangam.in" tvg-name="Sarv Dharam Sangam" group-title="India",Sarv Dharam Sangam
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/972.m3u8
 #EXTINF:-1 tvg-id="SatsangTV.in" tvg-name="Satsang TV" group-title="India",Satsang TV
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -1994,26 +1248,10 @@ https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ShemarooFilmiGaane.in" tvg-name="Shemaroo Filmi Gaane" group-title="India",Shemaroo Filmi Gaane
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
-#EXTINF:-1 tvg-id="ShemarooJosh.in" tvg-name="Shemaroo Josh" group-title="India",Shemaroo Josh
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://103.213.31.109:90/ChumbakTv/playlist.m3u8
-#EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-name="Shemaroo Marathi Bana" group-title="India",Shemaroo Marathi Bana
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8]
 #EXTINF:-1 tvg-id="ShemarooTV.in" tvg-name="Shemaroo TV" group-title="India",Shemaroo TV
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ShemarooUmang.in" tvg-name="Shemaroo Umang" group-title="India",Shemaroo Umang
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://103.213.31.109:90/ShemarooUmang/playlist.m3u8
 #EXTINF:-1 tvg-id="ShubhCinemaTV.in" tvg-name="Shubh Cinema TV" group-title="India",Shubh Cinema TV
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -2038,38 +1276,10 @@ https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8
-#EXTINF:-1 tvg-id="SongdewTV.in" tvg-name="Songdew TV" group-title="India",Songdew TV
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1411.m3u8
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" group-title="India",Sony Entertainment Television
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&pass=krish-ka&uid=gana-sunega
-#EXTINF:-1 tvg-id="SonyMarathi.in" tvg-name="Sony Marathi" group-title="India",Sony Marathi
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://sl.vodep39240327.workers.dev/channel/SONY+MARATHI.m3u8
 #EXTINF:-1 tvg-id="SonyMax1.in" tvg-name="Sony Max 1" group-title="India",Sony Max 1
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 http://103.159.180.34:5001/live/3418.m3u8
-#EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="Sony Max 2" group-title="India",Sony Max 2
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://149.71.34.166:8000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="India",Sony Pix
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" tvg-name="Sony Sports Ten 3 Hindi" group-title="India",Sony Sports Ten 3 Hindi
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.229.254.25:7001/play/a09q/index.m3u8
-#EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony Wah" group-title="India",Sony Wah
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 #EXTINF:-1 tvg-id="SouthStation.in" tvg-name="South Station" group-title="India",South Station
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=HD
@@ -2078,89 +1288,18 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
-#EXTINF:-1 tvg-id="StarBharat.in" tvg-name="Star Bharat" group-title="India",Star Bharat
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.253.18.58:8000/play/a00u
-#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="India",Star Gold
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.253.18.58:8000/play/a00q
-#EXTINF:-1 tvg-id="StarGold2.in" tvg-name="Star Gold 2" group-title="India",Star Gold 2
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.253.18.58:8000/play/a00r
-#EXTINF:-1 tvg-id="StarGoldRomance.in" tvg-name="Star Gold Romance" group-title="India",Star Gold Romance
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.253.18.58:8000/play/a017
-#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="Star Gold Select" group-title="India",Star Gold Select
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.253.18.58:8000/play/a02u
-#EXTINF:-1 tvg-id="StarGoldThrills.in" tvg-name="Star Gold Thrills" group-title="India",Star Gold Thrills
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.157.248.140:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="India",Star Jalsha
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=HD
-http://tvsen7.aynascope.net/sjhdbd/index.m3u8
-#EXTINF:-1 tvg-id="StarMaaMovies.in" tvg-name="Star Maa Movies" group-title="India",Star Maa Movies
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="India",Star Movies
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://149.71.34.166:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" group-title="India",Star Movies Select
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://149.71.34.166:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="Starnet.in" tvg-name="Starnet" group-title="India",Starnet
 #EXTVLCOPT:meta-quality=480p
 #EXTVLCOPT:meta-feed=SD
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="India",StarPlus
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=HD
-https://trs1.aynaott.com/starplushd/index.m3u8
-#EXTINF:-1 tvg-id="StarPravah.in" tvg-name="Star Pravah" group-title="India",Star Pravah
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starpravah_live_https/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1" group-title="India",Star Sports 1
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.253.18.58:8000/play/a00m
-#EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="Star Sports 1 Hindi" group-title="India",Star Sports 1 Hindi
-#EXTVLCOPT:meta-feed=HD
-http://103.253.18.58:8000/play/a00t
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="India",Star Sports 2
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=HD
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-#EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-name="Star Sports 2 Hindi" group-title="India",Star Sports 2 Hindi
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.157.248.140:8000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="Star Sports Select 1" group-title="India",Star Sports Select 1
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=HD
-http://tvsen7.aynascope.net/sspts1/index.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="Star Sports Select 2" group-title="India",Star Sports Select 2
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=HD
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
-#EXTINF:-1 tvg-id="StarUtsavMovies.in" tvg-name="Star Utsav Movies" group-title="India",Star Utsav Movies
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://149.71.34.166:8000/play/a059/index.m3u8
-#EXTINF:-1 tvg-id="StarVijay.in" tvg-name="Star Vijay" group-title="India",Star Vijay
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://149.71.34.166:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="SteelbirdMusic.in" tvg-name="Steelbird Music" group-title="India",Steelbird Music
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -2185,10 +1324,6 @@ https://stream.galaxyott.live/live/subintv/index.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="SuriyanTV.in" tvg-name="Suriyan TV" group-title="India",Suriyan TV
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://stream.sscloud7.com/live/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="SuriyaTV.in" tvg-name="Suriya TV" group-title="India",Suriya TV
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -2225,90 +1360,6 @@ https://cdn-2.pishow.tv/live/477/master.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha1.in" tvg-name="Swayam Prabha 1" group-title="India",Swayam Prabha 1
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/980.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha10.in" tvg-name="Swayam Prabha 10" group-title="India",Swayam Prabha 10
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/989.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha11.in" tvg-name="Swayam Prabha 11" group-title="India",Swayam Prabha 11
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/990.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha12.in" tvg-name="Swayam Prabha 12" group-title="India",Swayam Prabha 12
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/991.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha13.in" tvg-name="Swayam Prabha 13" group-title="India",Swayam Prabha 13
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/992.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha14.in" tvg-name="Swayam Prabha 14" group-title="India",Swayam Prabha 14
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/993.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha15.in" tvg-name="Swayam Prabha 15" group-title="India",Swayam Prabha 15
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/995.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha16.in" tvg-name="Swayam Prabha 16" group-title="India",Swayam Prabha 16
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/994.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha17.in" tvg-name="Swayam Prabha 17" group-title="India",Swayam Prabha 17
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/996.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha18.in" tvg-name="Swayam Prabha 18" group-title="India",Swayam Prabha 18
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/999.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha19.in" tvg-name="Swayam Prabha 19" group-title="India",Swayam Prabha 19
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/401.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha20.in" tvg-name="Swayam Prabha 20" group-title="India",Swayam Prabha 20
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/403.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha21.in" tvg-name="Swayam Prabha 21" group-title="India",Swayam Prabha 21
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/997.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha22.in" tvg-name="Swayam Prabha 22" group-title="India",Swayam Prabha 22
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/998.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha3.in" tvg-name="Swayam Prabha 3" group-title="India",Swayam Prabha 3
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/982.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha4.in" tvg-name="Swayam Prabha 4" group-title="India",Swayam Prabha 4
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/984.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha5.in" tvg-name="Swayam Prabha 5" group-title="India",Swayam Prabha 5
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/986.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha6.in" tvg-name="Swayam Prabha 6" group-title="India",Swayam Prabha 6
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/987.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha7.in" tvg-name="Swayam Prabha 7" group-title="India",Swayam Prabha 7
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/985.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha8.in" tvg-name="Swayam Prabha 8" group-title="India",Swayam Prabha 8
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/983.m3u8
-#EXTINF:-1 tvg-id="SwayamPrabha9.in" tvg-name="Swayam Prabha 9" group-title="India",Swayam Prabha 9
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/988.m3u8
 #EXTINF:-1 tvg-id="TaazaTV.in" tvg-name="Taaza TV" group-title="India",Taaza TV
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -2357,26 +1408,6 @@ https://cdn-3.pishow.tv/live/1612/master.m3u8
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=HD
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
-#EXTINF:-1 tvg-id="TimesNow.in" tvg-name="Times Now" group-title="India",Times Now
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8
-#EXTINF:-1 tvg-id="TimesNowNavbharat.in" tvg-name="Times Now Navbharat" group-title="India",Times Now Navbharat
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="TimesNowWorld.in" tvg-name="Times Now World" group-title="India",Times Now World
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/876.m3u8
-#EXTINF:-1 tvg-id="TimeTV.in" tvg-name="Time TV" group-title="India",Time TV
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://tvsen5.aynascope.net/timetv/index.m3u8
-#EXTINF:-1 tvg-id="TimeVisionNews.in" tvg-name="Time Vision News" group-title="India",Time Vision News
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://rtmp.logichost.in:1935/timevision/timevision/playlist.m3u8
 #EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="India",T News
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -2401,14 +1432,6 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/in
 #EXTVLCOPT:meta-quality=396p
 #EXTVLCOPT:meta-feed=SD
 https://d1msejlow1t3l4.cloudfront.net/fta/totaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="India",Travelxp
-#EXTVLCOPT:meta-quality=2160p
-#EXTVLCOPT:meta-feed=4KHDR
-https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
-#EXTINF:-1 tvg-id="TravelxpTamil.in" tvg-name="Travelxp Tamil" group-title="India",Travelxp Tamil
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/814.m3u8
 #EXTINF:-1 tvg-id="Tunes6.in" tvg-name="Tunes 6" group-title="India",Tunes 6
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -2475,70 +1498,6 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="VandeGujarat1.in" tvg-name="Vande Gujarat 1" group-title="India",Vande Gujarat 1
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1069.m3u8
-#EXTINF:-1 tvg-id="VandeGujarat10.in" tvg-name="Vande Gujarat 10" group-title="India",Vande Gujarat 10
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1088.m3u8
-#EXTINF:-1 tvg-id="VandeGujarat11.in" tvg-name="Vande Gujarat 11" group-title="India",Vande Gujarat 11
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1089.m3u8
-#EXTINF:-1 tvg-id="VandeGujarat12.in" tvg-name="Vande Gujarat 12" group-title="India",Vande Gujarat 12
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1090.m3u8
-#EXTINF:-1 tvg-id="VandeGujarat13.in" tvg-name="Vande Gujarat 13" group-title="India",Vande Gujarat 13
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1091.m3u8
-#EXTINF:-1 tvg-id="VandeGujarat14.in" tvg-name="Vande Gujarat 14" group-title="India",Vande Gujarat 14
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1092.m3u8
-#EXTINF:-1 tvg-id="VandeGujarat15.in" tvg-name="Vande Gujarat 15" group-title="India",Vande Gujarat 15
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1093.m3u8
-#EXTINF:-1 tvg-id="VandeGujarat16.in" tvg-name="Vande Gujarat 16" group-title="India",Vande Gujarat 16
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1094.m3u8
-#EXTINF:-1 tvg-id="VandeGujarat2.in" tvg-name="Vande Gujarat 2" group-title="India",Vande Gujarat 2
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1070.m3u8
-#EXTINF:-1 tvg-id="VandeGujarat3.in" tvg-name="Vande Gujarat 3" group-title="India",Vande Gujarat 3
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1082.m3u8
-#EXTINF:-1 tvg-id="VandeGujarat4.in" tvg-name="Vande Gujarat 4" group-title="India",Vande Gujarat 4
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1071.m3u8
-#EXTINF:-1 tvg-id="VandeGujarat5.in" tvg-name="Vande Gujarat 5" group-title="India",Vande Gujarat 5
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1083.m3u8
-#EXTINF:-1 tvg-id="VandeGujarat6.in" tvg-name="Vande Gujarat 6" group-title="India",Vande Gujarat 6
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1084.m3u8
-#EXTINF:-1 tvg-id="VandeGujarat7.in" tvg-name="Vande Gujarat 7" group-title="India",Vande Gujarat 7
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1085.m3u8
-#EXTINF:-1 tvg-id="VandeGujarat8.in" tvg-name="Vande Gujarat 8" group-title="India",Vande Gujarat 8
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1086.m3u8
-#EXTINF:-1 tvg-id="VandeGujarat9.in" tvg-name="Vande Gujarat 9" group-title="India",Vande Gujarat 9
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1087.m3u8
 #EXTINF:-1 tvg-id="VanithaTV.in" tvg-name="Vanitha TV" group-title="India",Vanitha TV
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
@@ -2563,10 +1522,6 @@ https://cdn-3.pishow.tv/live/461/master.m3u8
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
 https://cdn-3.pishow.tv/live/1271/master.m3u8
-#EXTINF:-1 tvg-id="VijayTakkar.in" tvg-name="Vijay Takkar" group-title="India",Vijay Takkar
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=APAC
-https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
 #EXTINF:-1 tvg-id="VillageTV.in" tvg-name="Village TV" group-title="India",Village TV
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
@@ -2579,21 +1534,9 @@ https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
 https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8
-#EXTINF:-1 tvg-id="VyasChannel.in" tvg-name="Vyas Channel" group-title="India",Vyas Channel
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
-#EXTINF:-1 tvg-id="WayanadVision.in" tvg-name="Wayanad Vision" group-title="India",Wayanad Vision
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://cloudsavre.in.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.in" tvg-name="WeatherSpy" group-title="India",WeatherSpy
 #EXTVLCOPT:meta-feed=SD
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WeOneKerala.in" tvg-name="We One Kerala" group-title="India",We One Kerala
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8
 #EXTINF:-1 tvg-id="WinTV.in" tvg-name="Win TV" group-title="India",Win TV
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
@@ -2625,10 +1568,6 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=HD
 https://server.zillarbarta.com/zbmusic/index.m3u8
-#EXTINF:-1 tvg-id="Zee24Ghanta.in" tvg-name="Zee 24 Ghanta" group-title="India",Zee 24 Ghanta
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://45.148.145.57/IN_Zee24Ghanta/index.m3u8
 #EXTINF:-1 tvg-id="Zee24Kalak.in" tvg-name="Zee 24 Kalak" group-title="India",Zee 24 Kalak
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -2637,14 +1576,6 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24kalak/v1/manifest/611d79b
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" group-title="India",Zee Action
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/488.m3u8
-#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="India",Zee Bangla
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=HD
-http://217.20.112.199:8080/maamovies/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in" tvg-name="Zee Bangla Sonar" group-title="India",Zee Bangla Sonar
 #EXTVLCOPT:meta-quality=576p
 #EXTVLCOPT:meta-feed=SD
@@ -2657,54 +1588,14 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
-#EXTINF:-1 tvg-id="ZeeBiskope.in" tvg-name="Zee Biskope" group-title="India",Zee Biskope
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.154.3.101:5001/live/559.m3u8
-#EXTINF:-1 tvg-id="ZeeBollymovies.in" tvg-name="Zee Bollymovies" group-title="India",Zee Bollymovies
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=Australia
-https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeBollywood.in" tvg-name="Zee Bollywood" group-title="India",Zee Bollywood
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://149.71.34.166:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-name="Zee Business" group-title="India",Zee Business
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-id="ZeeCafe.in" tvg-name="Zee Cafe" group-title="India",Zee Cafe
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.72.101.252:8080/live/1319.m3u8
-#EXTINF:-1 tvg-id="ZeeCineClassic.in" tvg-name="Zee Cine Classic" group-title="India",Zee Cine Classic
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=SD
-https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="India",Zee Cinema
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=APAC
-https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Classic" group-title="India",Zee Classic
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/1691.m3u8
-#EXTINF:-1 tvg-id="ZeeComedyNation.in" tvg-name="Zee Comedy Nation" group-title="India",Zee Comedy Nation
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeDelhiNCRHaryana.in" tvg-name="Zee Delhi NCR Haryana" group-title="India",Zee Delhi NCR Haryana
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
-#EXTINF:-1 tvg-id="ZeeDilSe.in" tvg-name="Zee Dil Se" group-title="India",Zee Dil Se
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeHorrorNights.in" tvg-name="Zee Horror Nights" group-title="India",Zee Horror Nights
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeKannadaNews.in" tvg-name="Zee Kannada News" group-title="India",Zee Kannada News
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -2713,14 +1604,6 @@ https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
-#EXTINF:-1 tvg-id="ZeeMalayalamNews.in" tvg-name="Zee Malayalam News" group-title="India",Zee Malayalam News
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=SD
-https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-id="ZeeMarathi.in" tvg-name="Zee Marathi" group-title="India",Zee Marathi
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.72.101.252:8080/live/1360.m3u8
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="Zee News" group-title="India",Zee News
 #EXTVLCOPT:meta-quality=1080p
 #EXTVLCOPT:meta-feed=SD
@@ -2733,14 +1616,6 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
-#EXTINF:-1 tvg-id="ZeeSouthFlix.in" tvg-name="Zee South Flix" group-title="India",Zee South Flix
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="Zee Talkies" group-title="India",Zee Talkies
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.72.101.252:8080/live/1358.m3u8
 #EXTINF:-1 tvg-id="ZeeTamilNews.in" tvg-name="Zee Tamil News" group-title="India",Zee Tamil News
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
@@ -2749,30 +1624,10 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" group-title="India",Zee TV
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=HD
-http://41.205.93.154/ZEE-TV/index.m3u8
 #EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in" tvg-name="Zee Uttar Pradesh/Uttarakhand" group-title="India",Zee Uttar Pradesh/Uttarakhand
 #EXTVLCOPT:meta-quality=720p
 #EXTVLCOPT:meta-feed=SD
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
-#EXTINF:-1 tvg-id="ZeeYuva.in" tvg-name="Zee Yuva" group-title="India",Zee Yuva
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/414.m3u8
-#EXTINF:-1 tvg-id="ZeeZest.in" tvg-name="Zee Zest" group-title="India",Zee Zest
-#EXTVLCOPT:meta-quality=1080p
-#EXTVLCOPT:meta-feed=HD
-http://103.72.101.252:8080/live/2757.m3u8
 #EXTINF:-1 tvg-id="ZillarBartaNews.in" tvg-name="ZillarBarta News" group-title="India",ZillarBarta News
 #EXTVLCOPT:meta-feed=HD
 https://server.zillarbarta.com/zillarbarta/index.m3u8
-#EXTINF:-1 tvg-id="Zing.in" tvg-name="Zing!" group-title="India",Zing!
-#EXTVLCOPT:meta-quality=576p
-#EXTVLCOPT:meta-feed=SD
-http://103.72.101.252:8080/live/585.m3u8
-#EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" group-title="India",Zoom
-#EXTVLCOPT:meta-quality=720p
-#EXTVLCOPT:meta-feed=Global
-https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
